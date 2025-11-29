@@ -1,0 +1,15 @@
+# 文档索引模板（精简版 - 8字段）
+
+---
+doc_id: "DOC-XXX"
+title: ""
+layer: ""  # dao | shu
+doc_type: ""  # theory | methodology | framework | technique | philosophy
+summary: ""  # 一句话核心，不超过50字
+keywords: []  # 3-5个核心关键词
+related_docs: []  # 相关文档ID列表
+query_patterns:  # 用户可能问的问题（口语化）
+  - ""
+  - ""
+---
+
