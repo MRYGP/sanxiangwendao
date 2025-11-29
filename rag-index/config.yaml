@@ -20,7 +20,23 @@ learning_paths:
   cognitive_evolution:  # 认知进化之路
     name: "认知进化理论链"
     layer: "dao"
-    sequence: []  # 待填充
+    description: "从问题诊断到个体进化到集体涌现的完整认知升级路径"
+    sequence:
+      - doc_id: "DOC-D007"
+        title: "心智路径依赖理论"
+        role: "诊断：识别认知困境的根源"
+      - doc_id: "DOC-D001"
+        title: "认知内共生理论"
+        role: "方向：确立正确的人机协同路径"
+      - doc_id: "DOC-D003"
+        title: "双螺旋进化模型"
+        role: "机制：理解理性+灵感双螺旋"
+      - doc_id: "DOC-D004"
+        title: "递归式认知进化"
+        role: "个体：实现认知复利增长"
+      - doc_id: "DOC-D005"
+        title: "集体认知涌现"
+        role: "群体：触发集体智慧相变"
   
   innovation_practice:  # 创新实践之路
     name: "创新方法实践链"
