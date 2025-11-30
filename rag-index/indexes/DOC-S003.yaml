@@ -1,0 +1,27 @@
+---
+doc_id: "DOC-S003"
+doc_type: "methodology"
+title: "初创企业的生存法则"
+summary: "避免成为'小舢板'被大轮船的浪花掀翻。构建'系统性复杂'和'独占性资源'，形成真正的护城河。Loom案例：聚焦特定场景，叠加独特价值。"
+keywords:
+  - "小舢板"
+  - "系统性复杂"
+  - "独占性资源"
+  - "护城河"
+  - "生存法则"
+  - "Loom模式"
+related_docs:
+  - "DOC-S001"
+  - "DOC-S005"
+  - "DOC-S006"
+query_patterns:
+  - "初创企业如何生存"
+  - "怎么避免被大公司干掉"
+  - "什么是系统性复杂"
+  - "如何构建护城河"
+  - "小公司怎么和大公司竞争"
+doc_weight: "core"
+layer: "shu"
+training_order: 12
+---
+

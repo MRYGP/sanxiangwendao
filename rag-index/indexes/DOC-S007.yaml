@@ -1,0 +1,27 @@
+---
+doc_id: "DOC-S007"
+doc_type: "methodology"
+title: "马斯克的五步工作法"
+summary: "质疑需求 → 删除多余 → 简化优化 → 加速迭代 → 自动化。先问'这个需求对不对'，再问'怎么做'。删除比添加更重要。"
+keywords:
+  - "马斯克五步法"
+  - "质疑需求"
+  - "删除"
+  - "简化"
+  - "加速"
+  - "自动化"
+related_docs:
+  - "DOC-S001"
+  - "DOC-S015"
+  - "DOC-S004"
+query_patterns:
+  - "马斯克怎么工作的"
+  - "如何提高效率"
+  - "怎么简化流程"
+  - "五步工作法是什么"
+  - "如何质疑需求"
+doc_weight: "core"
+layer: "shu"
+training_order: 13
+---
+

@@ -1,0 +1,32 @@
+---
+doc_id: "DOC-D012"
+doc_type: "philosophy"
+title: "你的世界在等你按下回车键"
+summary: "从'等待模式'到'主角模式'的转变。世界不会主动给你机会，你需要主动按下回车键。小步启动，主动影响，从被动等待到主动创造。"
+keywords:
+  - "按下回车键"
+  - "主角模式"
+  - "等待模式"
+  - "主动行动"
+  - "小步启动"
+  - "主动创造"
+related_docs:
+  - "DOC-D009"
+  - "DOC-D010"
+  - "DOC-S005"
+theory_chain: "life_philosophy"
+query_patterns:
+  - "如何从被动变主动"
+  - "怎么迈出第一步"
+  - "为什么总是在等待"
+  - "如何成为自己人生的主角"
+  - "小步启动是什么意思"
+doc_weight: "important"
+layer: "dao"
+training_order: 6
+training_questions:
+  - "你在等什么？"
+  - "如果今天就按下回车键，你会做什么？"
+  - "你是自己人生的主角还是配角？"
+---
+

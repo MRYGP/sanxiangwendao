@@ -1,0 +1,33 @@
+---
+doc_id: "DOC-D009"
+doc_type: "philosophy"
+title: "构建北极星"
+summary: "50岁创业者的认知加速之旅。北极星是人生的方向指引，不是具体目标而是价值导向。核心理念：让认知增强在AI时代更易获得。"
+keywords:
+  - "北极星"
+  - "人生方向"
+  - "价值导向"
+  - "认知加速"
+  - "反桶理论"
+  - "道vs术"
+  - "长期主义"
+related_docs:
+  - "DOC-D010"
+  - "DOC-D011"
+  - "DOC-D012"
+theory_chain: "life_philosophy"
+query_patterns:
+  - "如何找到自己的人生方向"
+  - "什么是北极星"
+  - "怎么确定自己的价值导向"
+  - "50岁创业晚不晚"
+  - "道和术有什么区别"
+doc_weight: "core"
+layer: "dao"
+training_order: 3
+training_questions:
+  - "你的北极星是什么？"
+  - "你现在做的事情，和你的北极星对齐吗？"
+  - "你是在追求'术'的提升，还是'道'的觉醒？"
+---
+

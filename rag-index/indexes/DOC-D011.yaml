@@ -1,0 +1,33 @@
+---
+doc_id: "DOC-D011"
+doc_type: "philosophy"
+title: "时间的朋友"
+summary: "长期主义的核心：选择做'时间的朋友'而非'时间的敌人'。藤蔓模式（深扎根、慢生长）优于蒲公英模式（快传播、浅根基）。复利效应需要时间积累。"
+keywords:
+  - "时间的朋友"
+  - "长期主义"
+  - "复利效应"
+  - "藤蔓模式"
+  - "蒲公英模式"
+  - "深扎根"
+  - "慢生长"
+related_docs:
+  - "DOC-D009"
+  - "DOC-D010"
+  - "DOC-S014"
+theory_chain: "life_philosophy"
+query_patterns:
+  - "什么是长期主义"
+  - "如何成为时间的朋友"
+  - "复利效应怎么理解"
+  - "藤蔓和蒲公英有什么区别"
+  - "为什么要慢下来"
+doc_weight: "important"
+layer: "dao"
+training_order: 5
+training_questions:
+  - "你现在做的事情，3年后还有价值吗？"
+  - "你是藤蔓还是蒲公英？"
+  - "你愿意为长期价值牺牲短期收益吗？"
+---
+

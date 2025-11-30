@@ -1,0 +1,27 @@
+---
+doc_id: "DOC-S001"
+doc_type: "methodology"
+title: "创新三元法"
+summary: "第一性原理洞察 + 边缘用户拓展 + 喂饭思维交付。三位一体的创新闭环，从技术可行到用户成功的系统性突破。"
+keywords:
+  - "创新三元法"
+  - "第一性原理"
+  - "边缘用户"
+  - "喂饭思维"
+  - "产品创新"
+  - "用户成功"
+related_docs:
+  - "DOC-S005"
+  - "DOC-S003"
+  - "DOC-S007"
+query_patterns:
+  - "如何进行产品创新"
+  - "第一性原理怎么用"
+  - "什么是边缘用户"
+  - "怎么设计简单好用的产品"
+  - "喂饭思维是什么"
+doc_weight: "core"
+layer: "shu"
+training_order: 10
+---
+

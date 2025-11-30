@@ -1,0 +1,27 @@
+---
+doc_id: "DOC-S008"
+doc_type: "framework"
+title: "微习惯和正反馈行为改变框架"
+summary: "克服'知道-做到'鸿沟的核心方法。微小到不可能失败的习惯 + 即时正反馈 = 可持续的行为改变。关键是降低启动门槛，提高完成概率。"
+keywords:
+  - "微习惯"
+  - "正反馈"
+  - "行为改变"
+  - "知行合一"
+  - "习惯养成"
+  - "小步启动"
+related_docs:
+  - "DOC-S025"
+  - "DOC-S009"
+  - "DOC-D007"
+query_patterns:
+  - "如何养成新习惯"
+  - "为什么知道做不到"
+  - "微习惯怎么做"
+  - "如何坚持下去"
+  - "行为改变的方法"
+doc_weight: "core"
+layer: "shu"
+training_order: 16
+---
+

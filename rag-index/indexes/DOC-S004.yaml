@@ -1,0 +1,27 @@
+---
+doc_id: "DOC-S004"
+doc_type: "framework"
+title: "动态决策框架：迹象验证驾驭AI创业的不确定性"
+summary: "初始假设 → 关键迹象库 → 持续监控 → 动态概率调整 → 行动调整。在不确定中做决策，用迹象验证而非等待确定答案。"
+keywords:
+  - "动态决策"
+  - "迹象验证"
+  - "不确定性"
+  - "概率调整"
+  - "假设检验"
+  - "持续监控"
+related_docs:
+  - "DOC-S001"
+  - "DOC-S005"
+  - "DOC-S015"
+query_patterns:
+  - "如何在不确定中做决策"
+  - "怎么验证创业想法"
+  - "什么是迹象验证"
+  - "如何动态调整策略"
+  - "创业决策怎么做"
+doc_weight: "core"
+layer: "shu"
+training_order: 14
+---
+

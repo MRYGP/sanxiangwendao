@@ -1,0 +1,27 @@
+---
+doc_id: "DOC-S011"
+doc_type: "technique"
+title: "让对方HI起来"
+summary: "满足三大心理需求：存在感、胜任感、控制感。让对方感到被看见、被认可、有掌控权。高效沟通的本质是让对方状态好。"
+keywords:
+  - "存在感"
+  - "胜任感"
+  - "控制感"
+  - "心理需求"
+  - "沟通技巧"
+  - "影响力"
+related_docs:
+  - "DOC-S010"
+  - "DOC-S012"
+  - "DOC-S013"
+query_patterns:
+  - "如何让客户开心"
+  - "怎么让对方愿意听我说"
+  - "沟通时怎么建立信任"
+  - "如何满足对方的心理需求"
+  - "怎么让谈话气氛好起来"
+doc_weight: "core"
+layer: "shu"
+training_order: 8
+---
+

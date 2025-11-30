@@ -1,0 +1,26 @@
+---
+doc_id: "DOC-S012"
+doc_type: "technique"
+title: "透过现象看本质"
+summary: "冰山模型：表面行为只是10%，真正的驱动力在水面下。学会问'为什么'，挖掘深层需求和动机。洞察力是可以训练的。"
+keywords:
+  - "冰山模型"
+  - "透过现象看本质"
+  - "深层需求"
+  - "洞察力"
+  - "本质思考"
+related_docs:
+  - "DOC-S010"
+  - "DOC-S011"
+  - "DOC-S015"
+query_patterns:
+  - "如何看透问题本质"
+  - "怎么理解客户深层需求"
+  - "冰山模型怎么用"
+  - "如何培养洞察力"
+  - "为什么要问为什么"
+doc_weight: "important"
+layer: "shu"
+training_order: 9
+---
+

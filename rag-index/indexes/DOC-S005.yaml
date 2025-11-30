@@ -1,0 +1,27 @@
+---
+doc_id: "DOC-S005"
+doc_type: "technique"
+title: "最小可行启动点"
+summary: "'钉子汤'智慧：用最小资源启动，创造引力场，吸引更多资源加入。不要等所有条件具备，用最小成本验证最大假设。"
+keywords:
+  - "最小可行启动点"
+  - "钉子汤"
+  - "资源聚合"
+  - "小步启动"
+  - "MVP"
+  - "引力场"
+related_docs:
+  - "DOC-S001"
+  - "DOC-S003"
+  - "DOC-D012"
+query_patterns:
+  - "如何从0到1启动"
+  - "资源不够怎么开始"
+  - "什么是钉子汤"
+  - "MVP怎么做"
+  - "怎么用最小成本验证想法"
+doc_weight: "core"
+layer: "shu"
+training_order: 11
+---
+

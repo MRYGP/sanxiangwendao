@@ -1,0 +1,27 @@
+---
+doc_id: "DOC-S015"
+doc_type: "framework"
+title: "思考的模型：定向 → 构建 → 聚焦 → 迭代"
+summary: "系统化思维的四步法。定向（明确方向）→ 构建（加法，收集素材）→ 聚焦（减法，筛选核心）→ 迭代（增长与反馈）。"
+keywords:
+  - "思考模型"
+  - "定向"
+  - "构建"
+  - "聚焦"
+  - "迭代"
+  - "系统思维"
+related_docs:
+  - "DOC-S007"
+  - "DOC-S004"
+  - "DOC-S021"
+query_patterns:
+  - "如何系统性思考"
+  - "思考有什么模型"
+  - "怎么做加法和减法"
+  - "迭代思维是什么"
+  - "如何定向"
+doc_weight: "core"
+layer: "shu"
+training_order: 15
+---
+
