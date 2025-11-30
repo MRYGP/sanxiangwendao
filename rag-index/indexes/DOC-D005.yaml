@@ -1,0 +1,27 @@
+---
+doc_id: "DOC-D005"
+doc_type: "theory"
+title: "集体认知涌现的多维相变模型：创新生态系统的动力学机制与工程实现"
+summary: "只有当七个关键维度同时达到临界阈值时，系统才会发生相变，产生超线性的创新输出。集体认知涌现是不连续的相变过程，而非渐进的线性增长。"
+keywords:
+  - "集体认知涌现"
+  - "多维相变"
+  - "PayPal黑帮"
+  - "七维度模型"
+  - "相变"
+  - "超线性创新"
+related_docs:
+  - "DOC-D003"
+  - "DOC-D004"
+  - "DOC-S003"
+theory_chain: "cognitive_evolution"
+query_patterns:
+  - "为什么PayPal黑帮能创造奇迹"
+  - "如何设计创新生态系统"
+  - "什么是多维相变"
+  - "集体智慧如何涌现"
+  - "七维度模型是什么"
+doc_weight: "core"
+layer: "dao"
+---
+

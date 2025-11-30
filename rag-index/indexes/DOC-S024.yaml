@@ -1,0 +1,25 @@
+---
+doc_id: "DOC-S024"
+doc_type: "methodology"
+title: "为什么AI能发现人脑找不到的规律"
+summary: "AI能够发现金融市场中的'暗规律'：非线性、非逻辑、非理性的规律。通过计算穷尽性、模式识别敏感性、客观性等优势，揭示人脑无法察觉的结构性规律。"
+keywords:
+  - "暗规律"
+  - "非线性"
+  - "非逻辑"
+  - "非理性"
+  - "金融分析"
+related_docs:
+  - "DOC-D003"
+  - "DOC-S001"
+  - "DOC-S015"
+query_patterns:
+  - "AI如何发现暗规律"
+  - "什么是暗规律"
+  - "为什么传统模型失效"
+  - "AI在金融分析中的价值"
+  - "非线性非逻辑非理性是什么"
+doc_weight: "important"
+layer: "shu"
+---
+

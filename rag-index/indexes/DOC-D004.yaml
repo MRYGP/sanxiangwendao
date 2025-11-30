@@ -1,0 +1,28 @@
+---
+doc_id: "DOC-D004"
+doc_type: "theory"
+title: "递归式认知进化：情境触发事件驱动的人类智能跃迁理论"
+summary: "通过'情境触发式认知事件（CTCE）'实现认知起点的递归抬升，形成非线性、自加速的'认知复利'效应。AI从'知识搬运工'重新定义为'智慧炼金师'。"
+keywords:
+  - "递归式认知进化"
+  - "CTCE"
+  - "认知复利"
+  - "智慧炼金师"
+  - "认知起点抬升"
+  - "集体智慧飞轮"
+related_docs:
+  - "DOC-D001"
+  - "DOC-D003"
+  - "DOC-D005"
+  - "DOC-D006"
+theory_chain: "cognitive_evolution"
+query_patterns:
+  - "如何实现认知复利"
+  - "什么是CTCE"
+  - "认知起点抬升是什么意思"
+  - "智慧炼金师是什么"
+  - "如何从线性学习到递归进化"
+doc_weight: "core"
+layer: "dao"
+---
+

@@ -1,0 +1,25 @@
+---
+doc_id: "DOC-S016"
+doc_type: "methodology"
+title: "情境驱动的主动赋能"
+summary: "AI感知情境，推断意图，主动提供选项，最小化认知负荷。从'你问我答'到'我懂你心'，让AI成为贴心助手。"
+keywords:
+  - "情境驱动"
+  - "主动赋能"
+  - "认知负荷"
+  - "意图识别"
+  - "主动服务"
+related_docs:
+  - "DOC-S010"
+  - "DOC-S011"
+  - "DOC-S023"
+query_patterns:
+  - "AI如何主动服务"
+  - "情境驱动是什么"
+  - "如何降低认知负荷"
+  - "主动赋能怎么做"
+  - "如何让AI更贴心"
+doc_weight: "important"
+layer: "shu"
+---
+

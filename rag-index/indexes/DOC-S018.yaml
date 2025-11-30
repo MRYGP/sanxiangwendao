@@ -1,0 +1,25 @@
+---
+doc_id: "DOC-S018"
+doc_type: "framework"
+title: "合理化行为分析框架"
+summary: "通过SPPAA框架（情境→感知→痛苦→行为→后果）识别和解构个体的合理化行为模式，避免自我欺骗和认知陷阱，实现客观分析和学习成长。"
+keywords:
+  - "SPPAA框架"
+  - "合理化行为"
+  - "自我欺骗"
+  - "认知陷阱"
+  - "客观分析"
+related_docs:
+  - "DOC-S025"
+  - "DOC-D007"
+  - "DOC-S008"
+query_patterns:
+  - "为什么总是给自己找借口"
+  - "如何识别合理化行为"
+  - "SPPAA框架是什么"
+  - "如何避免自我欺骗"
+  - "如何客观分析失败"
+doc_weight: "important"
+layer: "shu"
+---
+

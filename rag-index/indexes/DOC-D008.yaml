@@ -1,0 +1,25 @@
+---
+doc_id: "DOC-D008"
+doc_type: "framework"
+title: "思想体系核心框架 v1.1 - 理论架构与应用索引"
+summary: "核心框架索引文档，包含认知内共生、三层AI动态架构、三层进化理论。作为总索引，连接所有理论，提供应用指导。"
+keywords:
+  - "思想体系核心框架"
+  - "认知内共生"
+  - "三层AI架构"
+  - "理论索引"
+  - "应用指导"
+related_docs:
+  - "DOC-D001"
+  - "DOC-D002"
+  - "DOC-D007"
+theory_chain: "cognitive_evolution"
+query_patterns:
+  - "思想体系核心框架是什么"
+  - "如何理解整个理论体系"
+  - "三层AI架构是什么"
+  - "理论索引在哪里"
+doc_weight: "important"
+layer: "dao"
+---
+

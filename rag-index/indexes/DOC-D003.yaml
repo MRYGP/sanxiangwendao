@@ -1,0 +1,28 @@
+---
+doc_id: "DOC-D003"
+doc_type: "theory"
+title: "双螺旋进化模型：人机认知协同的进化动力学理论"
+summary: "人类认知能力的进化呈现'双螺旋'结构：理性内化路径（AI发现暗规律）和创造涌现路径（AI扩展认知边界）。真正的认知增强是质的进化跃迁，而非简单的能力叠加。"
+keywords:
+  - "双螺旋进化"
+  - "理性内化"
+  - "创造涌现"
+  - "暗规律"
+  - "认知复利"
+  - "质的跃迁"
+related_docs:
+  - "DOC-D001"
+  - "DOC-D002"
+  - "DOC-D004"
+  - "DOC-D005"
+theory_chain: "cognitive_evolution"
+query_patterns:
+  - "AI如何同时提升理性和创造力"
+  - "什么是双螺旋进化"
+  - "理性内化和创造涌现有什么区别"
+  - "暗规律是什么"
+  - "如何实现认知复利"
+doc_weight: "core"
+layer: "dao"
+---
+
