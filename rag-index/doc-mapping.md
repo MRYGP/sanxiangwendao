@@ -17,7 +17,7 @@
 | DOC-D011 | 时间的朋友.md | dao | philosophy |
 | DOC-D012 | 你的世界在等你按下回车键.md | dao | philosophy |
 
-## 术层文档（DOC-S001 ~ S027）
+## 术层文档（DOC-S001 ~ S030）
 
 | ID | 文件名 | 层级 | 类型 |
 |----|--------|------|------|
@@ -48,12 +48,15 @@
 | DOC-S025 | 为什么给儿子讲道理时你很清醒，给客户报价时你就短视了.md | shu | technique |
 | DOC-S026 | 超越用户的预期.md | shu | philosophy |
 | DOC-S027 | 当美好变成理所当然.md | shu | philosophy |
+| DOC-S028 | 芒格不会投你的AI创业公司.md | shu | methodology |
+| DOC-S029 | 跟着感觉走——可能是你听过的最坑人的建议.md | shu | framework |
+| DOC-S030 | 为什么有些人明知道该离开，却怎么也走不了.md | shu | framework |
 
 ---
 
 ## 统计
 
 - **道层文档**：12篇
-- **术层文档**：27篇
-- **总计**：39篇
+- **术层文档**：30篇
+- **总计**：42篇
 
