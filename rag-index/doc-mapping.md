@@ -13,11 +13,11 @@
 | DOC-D007 | 心智路径依赖理论：现代人类认知困境的系统性分析框架.md | dao | theory |
 | DOC-D008 | 思想体系核心框架 v1.1 - 理论架构与应用索引.md | dao | framework |
 | DOC-D009 | 构建北极星.md | dao | philosophy |
-| DOC-D010 | 人生的意义和做法.md | dao | philosophy |
+| DOC-D010 | 人生的意义与实践.md | dao | philosophy |
 | DOC-D011 | 时间的朋友.md | dao | philosophy |
 | DOC-D012 | 你的世界在等你按下回车键.md | dao | philosophy |
 
-## 术层文档（DOC-S001 ~ S030）
+## 术层文档（DOC-S001 ~ S031）
 
 | ID | 文件名 | 层级 | 类型 |
 |----|--------|------|------|
@@ -51,12 +51,13 @@
 | DOC-S028 | 芒格不会投你的AI创业公司.md | shu | methodology |
 | DOC-S029 | 跟着感觉走——可能是你听过的最坑人的建议.md | shu | framework |
 | DOC-S030 | 为什么有些人明知道该离开，却怎么也走不了.md | shu | framework |
+| DOC-S031 | 即兴演讲.md | shu | technique |
 
 ---
 
 ## 统计
 
 - **道层文档**：12篇
-- **术层文档**：30篇
-- **总计**：42篇
+- **术层文档**：31篇
+- **总计**：43篇
 
