@@ -53,12 +53,13 @@
 | DOC-S030 | 为什么有些人明知道该离开，却怎么也走不了.md | shu | framework |
 | DOC-S031 | 即兴演讲.md | shu | technique |
 | DOC-S032 | 破坏式创新.md | shu | methodology |
+| DOC-S033 | 价值链创新.md | shu | methodology |
 
 ---
 
 ## 统计
 
 - **道层文档**：12篇
-- **术层文档**：32篇
-- **总计**：44篇
+- **术层文档**：33篇
+- **总计**：45篇
 
