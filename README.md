@@ -451,7 +451,7 @@ rag-index/
 ### 知识库构建方法
 
 - **`知识库构建SOP.md`** - 知识库构建的标准操作流程，包含五步构建流程、三种运作模式、质量标准等
-- **`Claude_Projects指令补充.md`** - 用于添加到Claude Projects的Custom Instructions中的指令，让AI自动遵循知识库构建流程
+- **`Claude_Projects指令补充.md`** - Claude Projects的完整Custom Instructions，包含原有指令（认知投影与精神合伙人角色）和知识库协作模式（自动知识构建流程）
 
 > **说明**：这两个文档是知识库构建的工具和方法，不加入核心知识库索引，供协作时参考。
 
