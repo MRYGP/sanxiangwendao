@@ -64,7 +64,7 @@ wendao/
 │   └── ...
 ├── vector_db/           # 向量数据库存储目录
 ├── rag-index/           # 文档索引配置
-│   └── indexes/         # 39个文档的YAML索引
+│   └── indexes/         # 45个文档的YAML索引
 ├── requirements.txt      # Python依赖
 └── .env                 # 环境变量配置
 ```

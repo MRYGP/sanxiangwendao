@@ -36,7 +36,7 @@ python scripts/build_index.py
 
 **首次运行会：**
 - 自动下载BGE-M3模型（约2.2GB，只需下载一次）
-- 加载39篇文档
+- 加载44篇核心文档
 - 进行分块和向量化
 - 存储到向量数据库
 
@@ -151,7 +151,7 @@ wendao/
 │   └── update_index.py
 ├── vector_db/           # 向量数据库（自动生成）
 ├── rag-index/           # 文档索引配置
-│   └── indexes/         # 39个YAML索引文件
+│   └── indexes/         # 45个YAML索引文件
 ├── requirements.txt
 └── .env                 # 环境变量配置
 ```
