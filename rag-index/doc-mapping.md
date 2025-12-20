@@ -54,12 +54,14 @@
 | DOC-S031 | 即兴演讲.md | shu | technique |
 | DOC-S032 | 破坏式创新.md | shu | methodology |
 | DOC-S033 | 价值链创新.md | shu | methodology |
+| DOC-S034 | 供应链数字化.md | shu | methodology |
+| DOC-S035 | 高频业务的战略价值.md | shu | methodology |
 
 ---
 
 ## 统计
 
 - **道层文档**：12篇
-- **术层文档**：33篇
-- **总计**：45篇
+- **术层文档**：35篇
+- **总计**：47篇
 
