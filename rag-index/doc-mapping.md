@@ -17,7 +17,7 @@
 | DOC-D011 | 时间的朋友.md | dao | philosophy |
 | DOC-D012 | 你的世界在等你按下回车键.md | dao | philosophy |
 
-## 术层文档（DOC-S001 ~ S035）
+## 术层文档（DOC-S001 ~ S037）
 
 | ID | 文件名 | 层级 | 类型 |
 |----|--------|------|------|
@@ -56,12 +56,14 @@
 | DOC-S033 | 价值链创新.md | shu | methodology |
 | DOC-S034 | 供应链数字化.md | shu | methodology |
 | DOC-S035 | 高频业务的战略价值.md | shu | methodology |
+| DOC-S036 | 精益创业.md | shu | methodology |
+| DOC-S037 | 从0到1.md | shu | methodology |
 
 ---
 
 ## 统计
 
 - **道层文档**：12篇
-- **术层文档**：35篇
-- **总计**：47篇
+- **术层文档**：37篇
+- **总计**：49篇
 
