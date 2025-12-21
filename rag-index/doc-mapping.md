@@ -1,5 +1,15 @@
 # 文档ID映射表
 
+> ⚠️ **索引更新提醒**：每次新增文档后，必须同步更新以下文件：
+> 1. ✅ 本文件（doc-mapping.md）- 添加文档ID映射
+> 2. ✅ `rag-system/config.py` - 在 DOC_MAPPING 字典中添加条目
+> 3. ✅ `rag-index/indexes/DOC-XXX.yaml` - 创建索引文件
+> 4. ✅ `rag-index/learning-paths.md` - 更新学习路径（如需要）
+> 5. ✅ `README.md` - 更新统计数字（如需要）
+> 6. ✅ 运行 `python scripts/build_index.py` 重建索引
+>
+> 📋 详细检查清单请查看：`rag-index/索引更新检查清单.md`
+
 ## 道层文档（DOC-D001 ~ D012）
 
 | ID | 文件名 | 层级 | 类型 |

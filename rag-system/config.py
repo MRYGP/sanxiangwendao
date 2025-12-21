@@ -47,6 +47,13 @@ WEIGHT_CONTENT = float(os.getenv("WEIGHT_CONTENT", "1.0"))
 WEIGHT_EXAMPLE = float(os.getenv("WEIGHT_EXAMPLE", "1.2"))
 
 # 文档映射（从doc-mapping.md加载）
+# ⚠️ 重要：每次在 doc-mapping.md 中添加新文档后，必须同步更新此字典！
+# 更新步骤：
+#   1. 在 doc-mapping.md 中添加文档ID映射
+#   2. 在此处添加对应的 DOC_MAPPING 条目
+#   3. 创建对应的 YAML 索引文件（rag-index/indexes/DOC-XXX.yaml）
+#   4. 运行 python scripts/build_index.py 重建索引
+# 详细检查清单：rag-index/索引更新检查清单.md
 DOC_MAPPING = {
     # 道层文档
     "DOC-D001": "认知内共生理论：AI时代人类能力进化的根本路径选择.md",
@@ -89,6 +96,16 @@ DOC_MAPPING = {
     "DOC-S025": "为什么给儿子讲道理时你很清醒，给客户报价时你就短视了.md",
     "DOC-S026": "超越用户的预期.md",
     "DOC-S027": "当美好变成理所当然.md",
+    "DOC-S028": "芒格不会投你的AI创业公司.md",
+    "DOC-S029": "跟着感觉走——可能是你听过的最坑人的建议.md",
+    "DOC-S030": "为什么有些人明知道该离开，却怎么也走不了.md",
+    "DOC-S031": "即兴演讲.md",
+    "DOC-S032": "破坏式创新.md",
+    "DOC-S033": "价值链创新.md",
+    "DOC-S034": "供应链数字化.md",
+    "DOC-S035": "高频业务的战略价值.md",
+    "DOC-S036": "精益创业.md",
+    "DOC-S037": "从0到1.md",
 }
 
 def get_doc_file_path(doc_id: str) -> Path:
