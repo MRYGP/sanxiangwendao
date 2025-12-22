@@ -433,7 +433,7 @@
 
 ## 🔧 RAG知识库结构
 
-本仓库已建立RAG检索索引系统，支持智能问答和团队培训。
+本仓库已建立完整的RAG检索索引系统，支持智能问答和团队培训。
 
 ### 目录结构
 
@@ -441,12 +441,25 @@
 rag-index/
 ├── config.yaml          # 总配置
 ├── template.yaml        # 索引模板
-├── doc-mapping.md       # 文档ID映射
+├── doc-mapping.md       # 文档ID映射（49篇文档）
 ├── learning-paths.md    # 学习路径
-└── indexes/             # 各文档索引（待建）
-    ├── DOC-D001.yaml
-    ├── DOC-D002.yaml
-    └── ...
+└── indexes/             # 各文档索引（49篇已建）
+    ├── DOC-D001.yaml ~ DOC-D012.yaml  # 道层12篇
+    └── DOC-S001.yaml ~ DOC-S037.yaml  # 术层37篇
+
+rag-system/
+├── config.py           # 配置文件
+├── embedding.py        # Embedding模型封装
+├── document_loader.py  # 文档加载器
+├── vector_store.py     # 向量数据库封装
+├── retriever.py        # 混合检索器
+├── query_processor.py  # 查询处理器
+└── rag_chain.py        # RAG链实现
+
+scripts/
+├── build_index.py      # 构建完整索引
+├── update_index.py     # 增量更新索引
+└── test_query.py       # 测试查询
 ```
 
 ### 知识分层
@@ -471,7 +484,7 @@ rag-index/
 ### 知识库构建方法
 
 - **`知识库构建SOP.md`** - 知识库构建的标准操作流程，包含五步构建流程、三种运作模式、质量标准等
-- **`Claude_Projects指令V1.1.md`** - Claude Projects的完整Custom Instructions（v1.1版本），包含原有指令（认知投影与精神合伙人角色）和知识库协作模式（自动知识构建流程）
+- **`Claude_Projects指令V1.1.md`** - Claude Projects的完整Custom Instructions（v1.3版本），包含原有指令（认知投影与精神合伙人角色）、知识库协作模式和Token节约规则
 
 > **说明**：这两个文档是知识库构建的工具和方法，不加入核心知识库索引，供协作时参考。
 
