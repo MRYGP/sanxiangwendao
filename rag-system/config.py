@@ -4,10 +4,14 @@ RAG知识库系统配置文件
 
 import os
 from pathlib import Path
-from dotenv import load_dotenv
 
-# 加载环境变量
-load_dotenv()
+# 尝试加载环境变量（可选依赖）
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    # dotenv 未安装，跳过环境变量加载
+    pass
 
 # 项目路径
 PROJECT_ROOT = Path(__file__).parent.parent
