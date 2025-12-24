@@ -119,13 +119,35 @@ def get_doc_file_path(doc_id: str) -> Path:
         raise ValueError(f"未知的文档ID: {doc_id}")
     
     filename = DOC_MAPPING[doc_id]
-    file_path = DOCS_DIR / filename
     
-    if not file_path.exists():
-        # 尝试查找相似文件名
-        possible_files = list(DOCS_DIR.glob(f"*{filename.split('.')[0]}*"))
-        if possible_files:
-            return possible_files[0]
-        raise FileNotFoundError(f"找不到文档文件: {filename}")
+    # 首先尝试在新目录结构中查找（01-dao/ 和 02-shu/）
+    possible_dirs = [
+        DOCS_DIR / "01-dao" / "theory",
+        DOCS_DIR / "01-dao" / "framework",
+        DOCS_DIR / "01-dao" / "philosophy",
+        DOCS_DIR / "02-shu" / "innovation",
+        DOCS_DIR / "02-shu" / "communication",
+        DOCS_DIR / "02-shu" / "behavior-change",
+        DOCS_DIR / "02-shu" / "strategy",
+        DOCS_DIR / "02-shu" / "execution",
+        DOCS_DIR / "02-shu" / "psychology",
+        DOCS_DIR,  # 最后尝试根目录（向后兼容）
+    ]
     
-    return file_path
+    for dir_path in possible_dirs:
+        file_path = dir_path / filename
+        if file_path.exists():
+            return file_path
+    
+    # 如果直接路径找不到，尝试递归查找
+    possible_files = list(DOCS_DIR.rglob(filename))
+    if possible_files:
+        return possible_files[0]
+    
+    # 最后尝试模糊匹配
+    filename_base = filename.split('.')[0]
+    possible_files = list(DOCS_DIR.rglob(f"*{filename_base}*"))
+    if possible_files:
+        return possible_files[0]
+    
+    raise FileNotFoundError(f"找不到文档文件: {filename}")
