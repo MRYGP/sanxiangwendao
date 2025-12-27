@@ -111,6 +111,7 @@ DOC_MAPPING = {
     "DOC-S036": "精益创业.md",
     "DOC-S037": "从0到1.md",
     "DOC-S038": "规则制定者.md",
+    "DOC-S039": "受益方共创模式：精益创业的补充.md",
 }
 
 def get_doc_file_path(doc_id: str) -> Path:

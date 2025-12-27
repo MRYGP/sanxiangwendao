@@ -27,10 +27,10 @@
 | DOC-D011 | 时间的朋友.md | dao | philosophy | `01-dao/philosophy/` |
 | DOC-D012 | 你的世界在等你按下回车键.md | dao | philosophy | `01-dao/philosophy/` |
 
-## 术层文档（DOC-S001 ~ S037）
+## 术层文档（DOC-S001 ~ S039）
 
 | ID | 文件名 | 层级 | 类型 | 路径 |
-|----|--------|------|------|
+|----|--------|------|------|------|
 | DOC-S001 | 创新三元法.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S002 | AI驱动的创新工程系统.md | shu | framework | `02-shu/innovation/` |
 | DOC-S003 | 初创企业的生存法则.md | shu | methodology | `02-shu/innovation/` |
@@ -69,12 +69,13 @@
 | DOC-S036 | 精益创业.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S037 | 从0到1.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S038 | 规则制定者.md | shu | methodology | `02-shu/innovation/` |
+| DOC-S039 | 受益方共创模式：精益创业的补充.md | shu | methodology | `02-shu/innovation/` |
 
 ---
 
 ## 统计
 
 - **道层文档**：12篇
-- **术层文档**：38篇
-- **总计**：50篇
+- **术层文档**：39篇
+- **总计**：51篇
 
