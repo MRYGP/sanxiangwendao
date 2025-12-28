@@ -490,7 +490,7 @@ scripts/
 ### 知识库构建方法
 
 - **`知识库构建SOP.md`** - 知识库构建的标准操作流程，包含五步构建流程、三种运作模式、质量标准等
-- **`Claude_Projects指令V1.4.md`** - Claude Projects的完整Custom Instructions（v1.4版本），包含原有指令（认知投影与精神合伙人角色）、知识库协作模式、Token节约规则和新文档写作框架指南的自动调用机制
+- **`Claude_Projects指令V3.0.md`** - Claude Projects的完整Custom Instructions（v3.0版本），合并V2.0+V1.4最佳特性，包含四大工作模式（快速咨询/CEO指导/知识构建/新文档写作）、三个拷问机制、输出前三问、Token优化系统、新文档写作模式（7步法、YAML索引、17项质量检查清单）
 
 ### RAG索引管理
 
