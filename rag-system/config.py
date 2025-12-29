@@ -112,6 +112,8 @@ DOC_MAPPING = {
     "DOC-S037": "从0到1.md",
     "DOC-S038": "规则制定者.md",
     "DOC-S039": "受益方共创模式：精益创业的补充.md",
+    "DOC-S040": "AI应用拆解实验室：导师能力训练指南.md",
+    "DOC-S041": "生态型VC构建指南：从个人投资到规则制定者.md",
 }
 
 def get_doc_file_path(doc_id: str) -> Path:

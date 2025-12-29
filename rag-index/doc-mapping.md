@@ -70,12 +70,14 @@
 | DOC-S037 | 从0到1.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S038 | 规则制定者.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S039 | 受益方共创模式：精益创业的补充.md | shu | methodology | `02-shu/innovation/` |
+| DOC-S040 | AI应用拆解实验室：导师能力训练指南.md | shu | methodology | `02-shu/innovation/` |
+| DOC-S041 | 生态型VC构建指南：从个人投资到规则制定者.md | shu | methodology | `02-shu/innovation/` |
 
 ---
 
 ## 统计
 
 - **道层文档**：12篇
-- **术层文档**：39篇
-- **总计**：51篇
+- **术层文档**：41篇
+- **总计**：53篇
 
