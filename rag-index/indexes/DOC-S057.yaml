@@ -1,0 +1,20 @@
+---
+doc_id: "DOC-S057"
+title: "Claude-导师点评指令"
+layer: "shu"
+doc_type: "technique"
+summary: "在五维拆解后给出导师级反馈：3个尖锐问题、2个建设性建议、1个明确判断与改变条件。"
+keywords:
+  - "导师点评"
+  - "尖锐问题"
+  - "建设性建议"
+  - "判断"
+  - "改变条件"
+related_docs:
+  - "DOC-S056"
+query_patterns:
+  - "怎么做导师式点评？要输出哪些内容？"
+  - "如何提出尖锐问题来暴露假设？"
+---
+
+

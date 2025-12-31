@@ -1,0 +1,21 @@
+---
+doc_id: "DOC-S061"
+title: "竞品总索引"
+layer: "shu"
+doc_type: "framework"
+summary: "统一登记所有竞品条目（当前Step、状态、结论、路径、更新时间），用于快速查找与管理。"
+keywords:
+  - "竞品库"
+  - "索引"
+  - "进度"
+  - "结论"
+  - "路径"
+related_docs:
+  - "DOC-S056"
+  - "DOC-S060"
+query_patterns:
+  - "我已经分析了哪些竞品？现在到哪一步了？"
+  - "如何快速找到某个竞品的分析文档？"
+---
+
+

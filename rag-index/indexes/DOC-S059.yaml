@@ -1,0 +1,20 @@
+---
+doc_id: "DOC-S059"
+title: "Claude-失败案例分析指令"
+layer: "shu"
+doc_type: "technique"
+summary: "用于失败产品：拆解表层原因与深层原因（产品/市场/团队/竞争/执行），沉淀教训并转成对我们的预警与防范。"
+keywords:
+  - "失败案例"
+  - "复盘"
+  - "教训"
+  - "预警"
+  - "防范"
+related_docs:
+  - "DOC-S056"
+query_patterns:
+  - "怎么分析失败产品？"
+  - "失败案例如何转成我们的预警清单？"
+---
+
+

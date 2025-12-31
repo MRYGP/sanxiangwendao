@@ -12,6 +12,24 @@ from tqdm import tqdm
 project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
 
+# 处理 rag-system 目录的导入（目录名包含连字符，不能直接导入）
+import importlib.util
+rag_system_path = project_root / "rag-system"
+rag_system_init = rag_system_path / "__init__.py"
+if rag_system_init.exists():
+    spec = importlib.util.spec_from_file_location("rag_system", rag_system_init)
+    rag_system_module = importlib.util.module_from_spec(spec)
+    sys.modules["rag_system"] = rag_system_module
+    spec.loader.exec_module(rag_system_module)
+    # 导入子模块
+    for module_file in ["config", "embedding", "document_loader", "vector_store"]:
+        module_path = rag_system_path / f"{module_file}.py"
+        if module_path.exists():
+            spec = importlib.util.spec_from_file_location(f"rag_system.{module_file}", module_path)
+            module = importlib.util.module_from_spec(spec)
+            sys.modules[f"rag_system.{module_file}"] = module
+            spec.loader.exec_module(module)
+
 from rag_system.config import (
     INDEX_DIR, VECTOR_DB_DIR, COLLECTION_NAME,
     EMBEDDING_MODEL, EMBEDDING_DEVICE,

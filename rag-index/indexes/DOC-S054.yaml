@@ -1,0 +1,24 @@
+---
+doc_id: "DOC-S054"
+title: "AI产品竞品分析系统（项目说明）"
+layer: "shu"
+doc_type: "framework"
+summary: "把竞品拆解变成可复用流程：按产品归档Step0-10，横向对比，沉淀改进清单，并做月度/季度追踪。"
+keywords:
+  - "AI产品"
+  - "竞品分析"
+  - "五维拆解"
+  - "行动建议"
+  - "追踪"
+related_docs:
+  - "DOC-S055"
+  - "DOC-S056"
+  - "DOC-S061"
+  - "DOC-S062"
+  - "DOC-S063"
+query_patterns:
+  - "AI产品竞品分析怎么做？"
+  - "竞品分析的目录结构怎么用？"
+---
+
+

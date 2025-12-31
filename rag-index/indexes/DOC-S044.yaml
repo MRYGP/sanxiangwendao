@@ -1,0 +1,22 @@
+---
+doc_id: "DOC-S044"
+title: "Claude-案例拆解提示词"
+layer: "shu"
+doc_type: "technique"
+summary: "用于拆解单案例：还原时空约束→拆解决策→提炼机制，并给出通用启发、边界、可证伪点与最小验证动作。"
+keywords:
+  - "案例拆解提示词"
+  - "七步拆解"
+  - "决策拆解"
+  - "可证伪"
+  - "最小验证"
+related_docs:
+  - "DOC-S047"
+  - "DOC-S048"
+query_patterns:
+  - "怎么用Claude拆解一个商业案例？"
+  - "案例拆解需要输出哪些部分？"
+  - "如何避免复述课程、写出因果链？"
+---
+
+

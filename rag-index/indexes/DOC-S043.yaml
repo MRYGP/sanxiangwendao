@@ -1,0 +1,24 @@
+---
+doc_id: "DOC-S043"
+title: "00_系统指令（提示词与工作流）"
+layer: "shu"
+doc_type: "framework"
+summary: "定义Claude与Cursor协作方式，规范案例拆解/模型提炼/洞察归纳的输入输出与落盘流程。"
+keywords:
+  - "系统指令"
+  - "提示词"
+  - "工作流"
+  - "Claude"
+  - "Cursor"
+related_docs:
+  - "DOC-S044"
+  - "DOC-S045"
+  - "DOC-S046"
+  - "DOC-S047"
+query_patterns:
+  - "这个子项目的提示词怎么用？"
+  - "Claude和Cursor怎么配合生成案例库？"
+  - "有哪些输出格式和质量标准？"
+---
+
+

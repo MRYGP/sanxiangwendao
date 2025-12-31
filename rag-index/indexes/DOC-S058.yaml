@@ -1,0 +1,20 @@
+---
+doc_id: "DOC-S058"
+title: "Claude-评分系统指令"
+layer: "shu"
+doc_type: "technique"
+summary: "用统一量化口径评估竞品（总分50）：需求/价值/壁垒/商业/执行，并给出结论、风险与改进空间。"
+keywords:
+  - "评分系统"
+  - "量化评估"
+  - "竞品对比"
+  - "风险"
+  - "改进空间"
+related_docs:
+  - "DOC-S056"
+query_patterns:
+  - "竞品怎么打分？评分维度是什么？"
+  - "如何用评分来做快速对比？"
+---
+
+

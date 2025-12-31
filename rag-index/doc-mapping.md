@@ -72,12 +72,35 @@
 | DOC-S039 | 受益方共创模式：精益创业的补充.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S040 | AI应用拆解实验室：导师能力训练指南.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S041 | 生态型VC构建指南：从个人投资到规则制定者.md | shu | methodology | `02-shu/innovation/` |
+| DOC-S042 | 张潇雨商业案例课改编/README.md | shu | framework | `张潇雨商业案例课改编/` |
+| DOC-S043 | 张潇雨商业案例课改编/00_系统指令/README.md | shu | framework | `张潇雨商业案例课改编/00_系统指令/` |
+| DOC-S044 | 张潇雨商业案例课改编/00_系统指令/Claude-案例拆解提示词.md | shu | technique | `张潇雨商业案例课改编/00_系统指令/` |
+| DOC-S045 | 张潇雨商业案例课改编/00_系统指令/Claude-模型提炼提示词.md | shu | technique | `张潇雨商业案例课改编/00_系统指令/` |
+| DOC-S046 | 张潇雨商业案例课改编/00_系统指令/Claude-洞察归纳提示词.md | shu | technique | `张潇雨商业案例课改编/00_系统指令/` |
+| DOC-S047 | 张潇雨商业案例课改编/00_系统指令/Cursor-文档生成指令.md | shu | technique | `张潇雨商业案例课改编/00_系统指令/` |
+| DOC-S048 | 张潇雨商业案例课改编/01_案例库/案例总索引.md | shu | framework | `张潇雨商业案例课改编/01_案例库/` |
+| DOC-S049 | 张潇雨商业案例课改编/02_模型库/模型总索引.md | shu | framework | `张潇雨商业案例课改编/02_模型库/` |
+| DOC-S050 | 张潇雨商业案例课改编/03_洞察库/洞察总索引.md | shu | framework | `张潇雨商业案例课改编/03_洞察库/` |
+| DOC-S051 | 张潇雨商业案例课改编/05_学习记录/学习进度追踪器.md | shu | methodology | `张潇雨商业案例课改编/05_学习记录/` |
+| DOC-S052 | 张潇雨商业案例课改编/01_案例库/按行业分类/消费零售/案例模板.md | shu | technique | `张潇雨商业案例课改编/01_案例库/按行业分类/消费零售/` |
+| DOC-S053 | AI产品分析文件夹/README.md | shu | framework | `AI产品分析文件夹/` |
+| DOC-S054 | AI产品分析文件夹/AI产品竞品分析/README.md | shu | framework | `AI产品分析文件夹/AI产品竞品分析/` |
+| DOC-S055 | AI产品分析文件夹/AI产品竞品分析/00_系统指令/README.md | shu | framework | `AI产品分析文件夹/AI产品竞品分析/00_系统指令/` |
+| DOC-S056 | AI产品分析文件夹/AI产品竞品分析/00_系统指令/Claude-竞品分析主指令.md | shu | technique | `AI产品分析文件夹/AI产品竞品分析/00_系统指令/` |
+| DOC-S057 | AI产品分析文件夹/AI产品竞品分析/00_系统指令/Claude-导师点评指令.md | shu | technique | `AI产品分析文件夹/AI产品竞品分析/00_系统指令/` |
+| DOC-S058 | AI产品分析文件夹/AI产品竞品分析/00_系统指令/Claude-评分系统指令.md | shu | technique | `AI产品分析文件夹/AI产品竞品分析/00_系统指令/` |
+| DOC-S059 | AI产品分析文件夹/AI产品竞品分析/00_系统指令/Claude-失败案例分析指令.md | shu | technique | `AI产品分析文件夹/AI产品竞品分析/00_系统指令/` |
+| DOC-S060 | AI产品分析文件夹/AI产品竞品分析/00_系统指令/Cursor-文档生成指令.md | shu | technique | `AI产品分析文件夹/AI产品竞品分析/00_系统指令/` |
+| DOC-S061 | AI产品分析文件夹/AI产品竞品分析/01_竞品库/竞品总索引.md | shu | framework | `AI产品分析文件夹/AI产品竞品分析/01_竞品库/` |
+| DOC-S062 | AI产品分析文件夹/AI产品竞品分析/03_追踪记录/追踪总览.md | shu | framework | `AI产品分析文件夹/AI产品竞品分析/03_追踪记录/` |
+| DOC-S063 | AI产品分析文件夹/AI产品竞品分析/04_改进清单/改进清单总表.md | shu | framework | `AI产品分析文件夹/AI产品竞品分析/04_改进清单/` |
+| DOC-S064 | AI产品分析文件夹/AI产品竞品分析/01_竞品库/产品模板/Step9-完整报告.md | shu | technique | `AI产品分析文件夹/AI产品竞品分析/01_竞品库/产品模板/` |
 
 ---
 
 ## 统计
 
 - **道层文档**：12篇
-- **术层文档**：41篇
-- **总计**：53篇
+- **术层文档**：64篇
+- **总计**：76篇
 

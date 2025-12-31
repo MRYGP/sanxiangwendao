@@ -1,0 +1,20 @@
+---
+doc_id: "DOC-S062"
+title: "追踪总览"
+layer: "shu"
+doc_type: "framework"
+summary: "登记所有竞品的追踪频率、预警与最近更新，保证持续监控不丢失。"
+keywords:
+  - "追踪"
+  - "月度"
+  - "季度"
+  - "预警"
+  - "监控"
+related_docs:
+  - "DOC-S060"
+query_patterns:
+  - "哪些竞品需要月度追踪？"
+  - "追踪总览怎么维护？"
+---
+
+
