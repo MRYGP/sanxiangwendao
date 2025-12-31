@@ -1,6 +1,6 @@
 ---
 doc_id: "DOC-S053"
-title: "AI产品分析文件夹（产品研究与决策支持）"
+title: "AI产品分析（产品研究与决策支持）"
 layer: "shu"
 doc_type: "framework"
 summary: "面向实战的产品研究系统：竞品分析、对比、追踪与改进清单，服务产品决策与迭代。"
@@ -13,7 +13,7 @@ keywords:
 related_docs:
   - "DOC-S054"
 query_patterns:
-  - "AI产品分析文件夹是做什么的？"
+  - "AI产品分析是做什么的？"
   - "如何搭建竞品分析与持续追踪体系？"
 ---
 

@@ -21,7 +21,7 @@ MOVES: list[tuple[str, str]] = [
     ("知识库构建SOP.md", "99-工具与SOP/知识库/知识库构建SOP.md"),
     ("RAG索引重建操作指南.md", "99-工具与SOP/知识库/RAG索引重建操作指南.md"),
     # Product research project raw material
-    ("AI产品竞品分析系统指令v2.0.md", "AI产品分析文件夹/AI产品竞品分析/00_系统指令/原始资料/AI产品竞品分析系统指令v2.0.md"),
+    ("AI产品竞品分析系统指令v2.0.md", "AI产品分析/AI产品竞品分析/00_系统指令/原始资料/AI产品竞品分析系统指令v2.0.md"),
     # Knowledge docs
     ("AI创业大赛的思考.md", "02-shu/innovation/AI创业大赛的思考.md"),
     ("财富创造的范式转移.md", "01-dao/theory/财富创造的范式转移.md"),
