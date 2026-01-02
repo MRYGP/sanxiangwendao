@@ -1,6 +1,6 @@
 ---
 doc_id: "DOC-S048"
-title: "案例总索引（商业案例课改编）"
+title: "案例总索引（business-cases）"
 layer: "shu"
 doc_type: "framework"
 summary: "集中管理全部案例条目，支持按企业/行业/模型标签/生命周期/状态快速检索与维护。"

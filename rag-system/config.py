@@ -115,7 +115,7 @@ DOC_MAPPING = {
     "DOC-S040": "AI应用拆解实验室：导师能力训练指南.md",
     "DOC-S041": "生态型VC构建指南：从个人投资到规则制定者.md",
 
-    # --- 商业案例课改编（商业学习子项目） ---
+    # --- business-cases（商业学习子项目） ---
     # 说明：这里使用“相对路径”避免 README.md 等同名文件的歧义
     "DOC-S042": "business-cases/README.md",
     "DOC-S043": "business-cases/00_系统指令/README.md",
@@ -152,7 +152,7 @@ def get_doc_file_path(doc_id: str) -> Path:
     filename = DOC_MAPPING[doc_id]
 
     # 支持 DOC_MAPPING 直接存放相对路径（用于避免 README.md 等重名文件带来的歧义）
-    # 例如： "商业案例课改编/README.md"
+    # 例如： "business-cases/README.md"
     direct_path = DOCS_DIR / filename
     if direct_path.exists():
         return direct_path

@@ -1,6 +1,6 @@
 ---
 doc_id: "DOC-S049"
-title: "模型总索引（商业案例课改编）"
+title: "模型总索引（business-cases）"
 layer: "shu"
 doc_type: "framework"
 summary: "集中管理全部模型条目，记录类型、核心逻辑、支撑案例数与路径，便于复用与版本演进。"
