@@ -5,6 +5,6 @@ import subprocess
 os.chdir('.')
 
 # 添加DEDAO文件夹中的所有markdown文件
-subprocess.run(['git', 'add', 'business-cases/dedao/*.md'])
+subprocess.run(['git', 'add', 'shangye-anli/dedao/*.md'])
 
 print("DEDAO files added to git")

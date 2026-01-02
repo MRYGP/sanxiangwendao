@@ -9,7 +9,7 @@ from collections import defaultdict
 sys.stdout.reconfigure(encoding='utf-8')
 
 def analyze_dedao_structure():
-    dedao_path = 'business-cases/dedao'
+    dedao_path = 'shangye-anli/dedao'
     files = os.listdir(dedao_path)
     files.sort()
 

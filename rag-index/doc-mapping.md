@@ -27,7 +27,7 @@
 | DOC-D011 | 时间的朋友.md | dao | philosophy | `01-dao/philosophy/` |
 | DOC-D012 | 你的世界在等你按下回车键.md | dao | philosophy | `01-dao/philosophy/` |
 
-## 术层文档（DOC-S001 ~ S039）
+## 术层文档（DOC-S001 ~ S066）
 
 | ID | 文件名 | 层级 | 类型 | 路径 |
 |----|--------|------|------|------|
@@ -72,17 +72,17 @@
 | DOC-S039 | 受益方共创模式：精益创业的补充.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S040 | AI应用拆解实验室：导师能力训练指南.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S041 | 生态型VC构建指南：从个人投资到规则制定者.md | shu | methodology | `02-shu/innovation/` |
-| DOC-S042 | business-cases/README.md | shu | framework | `business-cases/` |
-| DOC-S043 | business-cases/00_系统指令/README.md | shu | framework | `business-cases/00_系统指令/` |
-| DOC-S044 | business-cases/00_系统指令/Claude-案例拆解提示词.md | shu | technique | `business-cases/00_系统指令/` |
-| DOC-S045 | business-cases/00_系统指令/Claude-模型提炼提示词.md | shu | technique | `business-cases/00_系统指令/` |
-| DOC-S046 | business-cases/00_系统指令/Claude-洞察归纳提示词.md | shu | technique | `business-cases/00_系统指令/` |
-| DOC-S047 | business-cases/00_系统指令/Cursor-文档生成指令.md | shu | technique | `business-cases/00_系统指令/` |
-| DOC-S048 | business-cases/01_案例库/案例总索引.md | shu | framework | `business-cases/01_案例库/` |
-| DOC-S049 | business-cases/02_模型库/模型总索引.md | shu | framework | `business-cases/02_模型库/` |
-| DOC-S050 | business-cases/03_洞察库/洞察总索引.md | shu | framework | `business-cases/03_洞察库/` |
-| DOC-S051 | business-cases/05_学习记录/学习进度追踪器.md | shu | methodology | `business-cases/05_学习记录/` |
-| DOC-S052 | business-cases/01_案例库/按行业分类/消费零售/案例模板.md | shu | technique | `business-cases/01_案例库/按行业分类/消费零售/` |
+| DOC-S042 | shangye-anli/README.md | shu | framework | `shangye-anli/` |
+| DOC-S043 | shangye-anli/00_系统指令/README.md | shu | framework | `shangye-anli/00_系统指令/` |
+| DOC-S044 | shangye-anli/00_系统指令/Claude-案例拆解提示词.md | shu | technique | `shangye-anli/00_系统指令/` |
+| DOC-S045 | shangye-anli/00_系统指令/Claude-模型提炼提示词.md | shu | technique | `shangye-anli/00_系统指令/` |
+| DOC-S046 | shangye-anli/00_系统指令/Claude-洞察归纳提示词.md | shu | technique | `shangye-anli/00_系统指令/` |
+| DOC-S047 | shangye-anli/00_系统指令/Cursor-文档生成指令.md | shu | technique | `shangye-anli/00_系统指令/` |
+| DOC-S048 | shangye-anli/01_案例库/案例总索引.md | shu | framework | `shangye-anli/01_案例库/` |
+| DOC-S049 | shangye-anli/02_模型库/模型总索引.md | shu | framework | `shangye-anli/02_模型库/` |
+| DOC-S050 | shangye-anli/03_洞察库/洞察总索引.md | shu | framework | `shangye-anli/03_洞察库/` |
+| DOC-S051 | shangye-anli/05_学习记录/学习进度追踪器.md | shu | methodology | `shangye-anli/05_学习记录/` |
+| DOC-S052 | shangye-anli/01_案例库/按行业分类/消费零售/案例模板.md | shu | technique | `shangye-anli/01_案例库/按行业分类/消费零售/` |
 | DOC-S053 | AI产品分析/README.md | shu | framework | `AI产品分析/` |
 | DOC-S054 | AI产品分析/AI产品竞品分析/README.md | shu | framework | `AI产品分析/AI产品竞品分析/` |
 | DOC-S055 | AI产品分析/AI产品竞品分析/00_系统指令/README.md | shu | framework | `AI产品分析/AI产品竞品分析/00_系统指令/` |
@@ -96,11 +96,14 @@
 | DOC-S063 | AI产品分析/AI产品竞品分析/04_改进清单/改进清单总表.md | shu | framework | `AI产品分析/AI产品竞品分析/04_改进清单/` |
 | DOC-S064 | AI产品分析/AI产品竞品分析/01_竞品库/产品模板/Step9-完整报告.md | shu | technique | `AI产品分析/AI产品竞品分析/01_竞品库/产品模板/` |
 
+|| DOC-S065 | 深度用户才是真正的护城河：为什么大公司明知有效却不做用户教程？ | shu | methodology | `02-shu/product-design/` |
+|| DOC-S066 | Notion案例深度拆解：为什么始终被模仿但从未被超越？ | shu | methodology | `shangye-anli/01_案例库/按行业分类/科技互联网/` |
+
 ---
 
 ## 统计
 
 - **道层文档**：12篇
-- **术层文档**：64篇
+- **术层文档**：66篇
 - **总计**：76篇
 

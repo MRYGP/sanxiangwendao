@@ -8,18 +8,16 @@ import re
 from pathlib import Path
 from typing import Dict, List, Optional
 import logging
-import tiktoken
+# import tiktoken  # 暂时注释掉，因为安装有问题
 
 from .config import INDEX_DIR, DOCS_DIR, CHUNK_SIZE, CHUNK_OVERLAP, get_doc_file_path
 
 logger = logging.getLogger(__name__)
 
 # 初始化tokenizer（用于计算token数）
-try:
-    encoding = tiktoken.get_encoding("cl100k_base")  # GPT-3.5/GPT-4使用的编码
-except:
-    encoding = None
-    logger.warning("tiktoken未安装，将使用字符数估算token数")
+# tiktoken暂时不可用，使用字符数估算
+encoding = None
+logger.warning("tiktoken未安装，将使用字符数估算token数")
 
 class DocumentLoader:
     """文档加载器"""

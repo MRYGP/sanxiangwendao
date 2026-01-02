@@ -117,17 +117,17 @@ DOC_MAPPING = {
 
     # --- business-cases（商业学习子项目） ---
     # 说明：这里使用“相对路径”避免 README.md 等同名文件的歧义
-    "DOC-S042": "business-cases/README.md",
-    "DOC-S043": "business-cases/00_系统指令/README.md",
-    "DOC-S044": "business-cases/00_系统指令/Claude-案例拆解提示词.md",
-    "DOC-S045": "business-cases/00_系统指令/Claude-模型提炼提示词.md",
-    "DOC-S046": "business-cases/00_系统指令/Claude-洞察归纳提示词.md",
-    "DOC-S047": "business-cases/00_系统指令/Cursor-文档生成指令.md",
-    "DOC-S048": "business-cases/01_案例库/案例总索引.md",
-    "DOC-S049": "business-cases/02_模型库/模型总索引.md",
-    "DOC-S050": "business-cases/03_洞察库/洞察总索引.md",
-    "DOC-S051": "business-cases/05_学习记录/学习进度追踪器.md",
-    "DOC-S052": "business-cases/01_案例库/按行业分类/消费零售/案例模板.md",
+    "DOC-S042": "shangye-anli/README.md",
+    "DOC-S043": "shangye-anli/00_系统指令/README.md",
+    "DOC-S044": "shangye-anli/00_系统指令/Claude-案例拆解提示词.md",
+    "DOC-S045": "shangye-anli/00_系统指令/Claude-模型提炼提示词.md",
+    "DOC-S046": "shangye-anli/00_系统指令/Claude-洞察归纳提示词.md",
+    "DOC-S047": "shangye-anli/00_系统指令/Cursor-文档生成指令.md",
+    "DOC-S048": "shangye-anli/01_案例库/案例总索引.md",
+    "DOC-S049": "shangye-anli/02_模型库/模型总索引.md",
+    "DOC-S050": "shangye-anli/03_洞察库/洞察总索引.md",
+    "DOC-S051": "shangye-anli/05_学习记录/学习进度追踪器.md",
+    "DOC-S052": "shangye-anli/01_案例库/按行业分类/消费零售/案例模板.md",
 
     # --- AI产品分析 / AI产品竞品分析 ---
     "DOC-S053": "AI产品分析/README.md",
@@ -142,6 +142,8 @@ DOC_MAPPING = {
     "DOC-S062": "AI产品分析/AI产品竞品分析/03_追踪记录/追踪总览.md",
     "DOC-S063": "AI产品分析/AI产品竞品分析/04_改进清单/改进清单总表.md",
     "DOC-S064": "AI产品分析/AI产品竞品分析/01_竞品库/产品模板/Step9-完整报告.md",
+    "DOC-S065": "深度用户才是真正的护城河.md",
+    "DOC-S066": "Notion案例深度拆解：为什么始终被模仿但从未被超越？.md",
 }
 
 def get_doc_file_path(doc_id: str) -> Path:
@@ -152,7 +154,7 @@ def get_doc_file_path(doc_id: str) -> Path:
     filename = DOC_MAPPING[doc_id]
 
     # 支持 DOC_MAPPING 直接存放相对路径（用于避免 README.md 等重名文件带来的歧义）
-    # 例如： "business-cases/README.md"
+    # 例如： "shangye-anli/README.md"
     direct_path = DOCS_DIR / filename
     if direct_path.exists():
         return direct_path

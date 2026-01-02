@@ -153,8 +153,8 @@
 ### Step 1：读取现有文档
 ```
 请先读取以下文档：
-- business-cases/01_案例库/跨案例对比/Musk-商业模式跨案例对比.md
-- business-cases/01_案例库/按行业分类/科技互联网/Tesla-创办电动汽车公司是蠢上加蠢.md
+- shangye-anli/01_案例库/跨案例对比/Musk-商业模式跨案例对比.md
+- shangye-anli/01_案例库/按行业分类/科技互联网/Tesla-创办电动汽车公司是蠢上加蠢.md
 - Cursor指令-SpaceX案例深度分析.md（如果已生成）
 ```
 
@@ -194,17 +194,17 @@
 
 ### 如果融入SpaceX深度分析
 ```
-输出路径：business-cases/01_案例库/按行业分类/科技互联网/SpaceX-火箭回收革命完整复盘.md
+输出路径：shangye-anli/01_案例库/按行业分类/科技互联网/SpaceX-火箭回收革命完整复盘.md
 ```
 
 ### 如果融入Tesla深度分析
 ```
-输出路径：business-cases/01_案例库/按行业分类/科技互联网/Tesla-电动汽车革命完整复盘.md
+输出路径：shangye-anli/01_案例库/按行业分类/科技互联网/Tesla-电动汽车革命完整复盘.md
 ```
 
 ### 如果融入Musk跨案例对比
 ```
-输出路径：business-cases/01_案例库/跨案例对比/Musk-商业模式跨案例对比-DEDAO增强版.md
+输出路径：shangye-anli/01_案例库/跨案例对比/Musk-商业模式跨案例对比-DEDAO增强版.md
 （或直接修改现有文件，在末尾追加）
 ```
 
