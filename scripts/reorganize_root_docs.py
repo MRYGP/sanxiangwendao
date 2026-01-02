@@ -16,10 +16,10 @@ import shutil
 
 MOVES: list[tuple[str, str]] = [
     # Tooling / SOP docs
-    ("新文档写作快速参考.md", "99-工具与SOP/写作/新文档写作快速参考.md"),
-    ("新文档写作框架指南.md", "99-工具与SOP/写作/新文档写作框架指南.md"),
-    ("知识库构建SOP.md", "99-工具与SOP/知识库/知识库构建SOP.md"),
-    ("RAG索引重建操作指南.md", "99-工具与SOP/知识库/RAG索引重建操作指南.md"),
+    ("新文档写作快速参考.md", "99-gongjuSOP/写作/新文档写作快速参考.md"),
+    ("新文档写作框架指南.md", "99-gongjuSOP/写作/新文档写作框架指南.md"),
+    ("知识库构建SOP.md", "99-gongjuSOP/知识库/知识库构建SOP.md"),
+    ("RAG索引重建操作指南.md", "99-gongjuSOP/知识库/RAG索引重建操作指南.md"),
     # Product research project raw material
     ("AI产品竞品分析系统指令v2.0.md", "AI产品分析/AI产品竞品分析/00_系统指令/原始资料/AI产品竞品分析系统指令v2.0.md"),
     # Knowledge docs

@@ -9,7 +9,7 @@ from collections import defaultdict
 sys.stdout.reconfigure(encoding='utf-8')
 
 def analyze_dedao_structure():
-    dedao_path = '商业案例课改编/dedao'
+    dedao_path = 'business-cases/dedao'
     files = os.listdir(dedao_path)
     files.sort()
 
@@ -59,7 +59,7 @@ def analyze_dedao_structure():
 
             themes[theme_key] += 1
 
-    print('商业案例课改编 - dedao文件夹分析')
+    print('business-cases - dedao文件夹分析')
     print('=' * 50)
     print(f'总文件数: {total_files}')
     print(f'覆盖企业/主题数: {len(companies)}')

@@ -117,17 +117,17 @@ DOC_MAPPING = {
 
     # --- 商业案例课改编（商业学习子项目） ---
     # 说明：这里使用“相对路径”避免 README.md 等同名文件的歧义
-    "DOC-S042": "商业案例课改编/README.md",
-    "DOC-S043": "商业案例课改编/00_系统指令/README.md",
-    "DOC-S044": "商业案例课改编/00_系统指令/Claude-案例拆解提示词.md",
-    "DOC-S045": "商业案例课改编/00_系统指令/Claude-模型提炼提示词.md",
-    "DOC-S046": "商业案例课改编/00_系统指令/Claude-洞察归纳提示词.md",
-    "DOC-S047": "商业案例课改编/00_系统指令/Cursor-文档生成指令.md",
-    "DOC-S048": "商业案例课改编/01_案例库/案例总索引.md",
-    "DOC-S049": "商业案例课改编/02_模型库/模型总索引.md",
-    "DOC-S050": "商业案例课改编/03_洞察库/洞察总索引.md",
-    "DOC-S051": "商业案例课改编/05_学习记录/学习进度追踪器.md",
-    "DOC-S052": "商业案例课改编/01_案例库/按行业分类/消费零售/案例模板.md",
+    "DOC-S042": "business-cases/README.md",
+    "DOC-S043": "business-cases/00_系统指令/README.md",
+    "DOC-S044": "business-cases/00_系统指令/Claude-案例拆解提示词.md",
+    "DOC-S045": "business-cases/00_系统指令/Claude-模型提炼提示词.md",
+    "DOC-S046": "business-cases/00_系统指令/Claude-洞察归纳提示词.md",
+    "DOC-S047": "business-cases/00_系统指令/Cursor-文档生成指令.md",
+    "DOC-S048": "business-cases/01_案例库/案例总索引.md",
+    "DOC-S049": "business-cases/02_模型库/模型总索引.md",
+    "DOC-S050": "business-cases/03_洞察库/洞察总索引.md",
+    "DOC-S051": "business-cases/05_学习记录/学习进度追踪器.md",
+    "DOC-S052": "business-cases/01_案例库/按行业分类/消费零售/案例模板.md",
 
     # --- AI产品分析 / AI产品竞品分析 ---
     "DOC-S053": "AI产品分析/README.md",
