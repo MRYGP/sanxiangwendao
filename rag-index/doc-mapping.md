@@ -27,7 +27,7 @@
 | DOC-D011 | 时间的朋友.md | dao | philosophy | `01-dao/philosophy/` |
 | DOC-D012 | 你的世界在等你按下回车键.md | dao | philosophy | `01-dao/philosophy/` |
 
-## 术层文档（DOC-S001 ~ S066）
+## 术层文档（DOC-S001 ~ S068）
 
 | ID | 文件名 | 层级 | 类型 | 路径 |
 |----|--------|------|------|------|
@@ -95,15 +95,16 @@
 | DOC-S062 | AI产品分析/AI产品竞品分析/03_追踪记录/追踪总览.md | shu | framework | `AI产品分析/AI产品竞品分析/03_追踪记录/` |
 | DOC-S063 | AI产品分析/AI产品竞品分析/04_改进清单/改进清单总表.md | shu | framework | `AI产品分析/AI产品竞品分析/04_改进清单/` |
 | DOC-S064 | AI产品分析/AI产品竞品分析/01_竞品库/产品模板/Step9-完整报告.md | shu | technique | `AI产品分析/AI产品竞品分析/01_竞品库/产品模板/` |
-
-|| DOC-S065 | 深度用户才是真正的护城河：为什么大公司明知有效却不做用户教程？ | shu | methodology | `02-shu/product-design/` |
-|| DOC-S066 | Notion案例深度拆解：为什么始终被模仿但从未被超越？ | shu | methodology | `shangye-anli/01_案例库/按行业分类/科技互联网/` |
+| DOC-S065 | 深度用户才是真正的护城河.md | shu | methodology | `02-shu/product-design/` |
+| DOC-S066 | Notion案例深度拆解：为什么始终被模仿但从未被超越？.md | shu | methodology | `shangye-anli/01_案例库/按行业分类/科技互联网/` |
+| DOC-S067 | 三大标杆的可复用方法论-Notion亚马逊Musk.md | shu | methodology | `02-shu/innovation/` |
+| DOC-S068 | 创业项目评估方法论-从归因分析到投资决策.md | shu | methodology | `02-shu/innovation/` |
 
 ---
 
 ## 统计
 
 - **道层文档**：12篇
-- **术层文档**：66篇
-- **总计**：76篇
+- **术层文档**：68篇
+- **总计**：78篇
 
