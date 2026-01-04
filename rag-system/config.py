@@ -122,8 +122,8 @@ DOC_MAPPING = {
     "DOC-S044": "shangye-anli/00_系统指令/Claude-案例拆解提示词.md",
     "DOC-S045": "shangye-anli/00_系统指令/Claude-模型提炼提示词.md",
     "DOC-S046": "shangye-anli/00_系统指令/Claude-洞察归纳提示词.md",
-    "DOC-S047": "shangye-anli/00_系统指令/Cursor-文档生成指令.md",
-    "DOC-S048": "shangye-anli/01_案例库/案例总索引.md",
+    "DOC-S047": "三大标杆的可复用方法论-Notion亚马逊Musk.md",
+    "DOC-S048": "创业项目评估方法论-从归因分析到投资决策.md",
     "DOC-S049": "shangye-anli/02_模型库/模型总索引.md",
     "DOC-S050": "shangye-anli/03_洞察库/洞察总索引.md",
     "DOC-S051": "shangye-anli/05_学习记录/学习进度追踪器.md",
@@ -144,8 +144,6 @@ DOC_MAPPING = {
     "DOC-S064": "AI产品分析/AI产品竞品分析/01_竞品库/产品模板/Step9-完整报告.md",
     "DOC-S065": "深度用户才是真正的护城河.md",
     "DOC-S066": "Notion案例深度拆解：为什么始终被模仿但从未被超越？.md",
-    "DOC-S067": "三大标杆的可复用方法论-Notion亚马逊Musk.md",
-    "DOC-S068": "创业项目评估方法论-从归因分析到投资决策.md",
 }
 
 def get_doc_file_path(doc_id: str) -> Path:

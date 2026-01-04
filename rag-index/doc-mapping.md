@@ -27,7 +27,7 @@
 | DOC-D011 | 时间的朋友.md | dao | philosophy | `01-dao/philosophy/` |
 | DOC-D012 | 你的世界在等你按下回车键.md | dao | philosophy | `01-dao/philosophy/` |
 
-## 术层文档（DOC-S001 ~ S068）
+## 术层文档（DOC-S001 ~ S066）
 
 | ID | 文件名 | 层级 | 类型 | 路径 |
 |----|--------|------|------|------|
@@ -77,8 +77,8 @@
 | DOC-S044 | shangye-anli/00_系统指令/Claude-案例拆解提示词.md | shu | technique | `shangye-anli/00_系统指令/` |
 | DOC-S045 | shangye-anli/00_系统指令/Claude-模型提炼提示词.md | shu | technique | `shangye-anli/00_系统指令/` |
 | DOC-S046 | shangye-anli/00_系统指令/Claude-洞察归纳提示词.md | shu | technique | `shangye-anli/00_系统指令/` |
-| DOC-S047 | shangye-anli/00_系统指令/Cursor-文档生成指令.md | shu | technique | `shangye-anli/00_系统指令/` |
-| DOC-S048 | shangye-anli/01_案例库/案例总索引.md | shu | framework | `shangye-anli/01_案例库/` |
+| DOC-S047 | 三大标杆的可复用方法论-Notion亚马逊Musk.md | shu | methodology | `02-shu/innovation/` |
+| DOC-S048 | 创业项目评估方法论-从归因分析到投资决策.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S049 | shangye-anli/02_模型库/模型总索引.md | shu | framework | `shangye-anli/02_模型库/` |
 | DOC-S050 | shangye-anli/03_洞察库/洞察总索引.md | shu | framework | `shangye-anli/03_洞察库/` |
 | DOC-S051 | shangye-anli/05_学习记录/学习进度追踪器.md | shu | methodology | `shangye-anli/05_学习记录/` |
@@ -97,14 +97,12 @@
 | DOC-S064 | AI产品分析/AI产品竞品分析/01_竞品库/产品模板/Step9-完整报告.md | shu | technique | `AI产品分析/AI产品竞品分析/01_竞品库/产品模板/` |
 | DOC-S065 | 深度用户才是真正的护城河.md | shu | methodology | `02-shu/product-design/` |
 | DOC-S066 | Notion案例深度拆解：为什么始终被模仿但从未被超越？.md | shu | methodology | `shangye-anli/01_案例库/按行业分类/科技互联网/` |
-| DOC-S067 | 三大标杆的可复用方法论-Notion亚马逊Musk.md | shu | methodology | `02-shu/innovation/` |
-| DOC-S068 | 创业项目评估方法论-从归因分析到投资决策.md | shu | methodology | `02-shu/innovation/` |
 
 ---
 
 ## 统计
 
 - **道层文档**：12篇
-- **术层文档**：68篇
+- **术层文档**：66篇
 - **总计**：78篇
 
