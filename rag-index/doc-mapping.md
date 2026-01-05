@@ -26,6 +26,7 @@
 | DOC-D010 | 人生的意义与实践.md | dao | philosophy | `01-dao/philosophy/` |
 | DOC-D011 | 时间的朋友.md | dao | philosophy | `01-dao/philosophy/` |
 | DOC-D012 | 你的世界在等你按下回车键.md | dao | philosophy | `01-dao/philosophy/` |
+| DOC-D013 | 伟大不能被计划，但可以被有计划地接住.md | dao | mindset | `01-dao/mindset/` |
 
 ## 术层文档（DOC-S001 ~ S066）
 
