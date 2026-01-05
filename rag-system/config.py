@@ -145,6 +145,7 @@ DOC_MAPPING = {
     "DOC-S064": "AI产品分析/AI产品竞品分析/01_竞品库/产品模板/Step9-完整报告.md",
     "DOC-S065": "深度用户才是真正的护城河.md",
     "DOC-S066": "Notion案例深度拆解：为什么始终被模仿但从未被超越？.md",
+    "DOC-S067": "shangye-anli/01_案例库/按行业分类/科技互联网/AI创业项目评估系统 - 商业计划书.md",
 }
 
 def get_doc_file_path(doc_id: str) -> Path:

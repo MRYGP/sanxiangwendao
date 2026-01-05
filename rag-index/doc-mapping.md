@@ -98,12 +98,13 @@
 | DOC-S064 | AI产品分析/AI产品竞品分析/01_竞品库/产品模板/Step9-完整报告.md | shu | technique | `AI产品分析/AI产品竞品分析/01_竞品库/产品模板/` |
 | DOC-S065 | 深度用户才是真正的护城河.md | shu | methodology | `02-shu/product-design/` |
 | DOC-S066 | Notion案例深度拆解：为什么始终被模仿但从未被超越？.md | shu | methodology | `shangye-anli/01_案例库/按行业分类/科技互联网/` |
+| DOC-S067 | AI创业项目评估系统 - 商业计划书.md | shu | methodology | `shangye-anli/01_案例库/按行业分类/科技互联网/` |
 
 ---
 
 ## 统计
 
-- **道层文档**：12篇
-- **术层文档**：66篇
-- **总计**：78篇
+- **道层文档**：13篇
+- **术层文档**：67篇
+- **总计**：80篇
 
