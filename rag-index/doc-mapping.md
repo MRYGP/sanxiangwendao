@@ -27,6 +27,8 @@
 | DOC-D011 | 时间的朋友.md | dao | philosophy | `01-dao/philosophy/` |
 | DOC-D012 | 你的世界在等你按下回车键.md | dao | philosophy | `01-dao/philosophy/` |
 | DOC-D013 | 伟大不能被计划，但可以被有计划地接住.md | dao | mindset | `01-dao/mindset/` |
+| DOC-D014 | 财富创造的范式转移.md | dao | theory | `01-dao/theory/` |
+| DOC-D015 | 熵增定律与负熵流-万物运行的底层逻辑.md | dao | theory | `01-dao/theory/` |
 
 ## 术层文档（DOC-S001 ~ S066）
 
@@ -99,12 +101,13 @@
 | DOC-S065 | 深度用户才是真正的护城河.md | shu | methodology | `02-shu/product-design/` |
 | DOC-S066 | Notion案例深度拆解：为什么始终被模仿但从未被超越？.md | shu | methodology | `shangye-anli/01_案例库/按行业分类/科技互联网/` |
 | DOC-S067 | AI创业项目评估系统 - 商业计划书.md | shu | methodology | `shangye-anli/01_案例库/按行业分类/科技互联网/` |
+| DOC-S068 | 创业神话的致命陷阱-你为什么被私募式创业割了韭菜.md | shu | methodology | `02-shu/innovation/` |
 
 ---
 
 ## 统计
 
-- **道层文档**：13篇
-- **术层文档**：67篇
-- **总计**：80篇
+- **道层文档**：15篇
+- **术层文档**：68篇
+- **总计**：83篇
 
