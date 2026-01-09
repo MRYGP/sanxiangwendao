@@ -19,6 +19,8 @@ related_docs:
   - "DOC-D003"  # 递归认知进化模型
   - "DOC-D005"  # 构建北极星
   - "DOC-S012"  # 思考的模型：定向→构建→聚焦→迭代
+  - "DOC-D016"  # 命运之手的年龄陷阱
+  - "DOC-S068"  # 创业神话的致命陷阱
 theory_chain: "entropy_resistance_system"
 query_patterns:
   - "为什么我越努力越累"

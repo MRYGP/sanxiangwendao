@@ -17,11 +17,12 @@ keywords:
   - "意志力 vs 享受"
   - "隐形代码"
 related_docs:
-  - "DOC-D001"  # 心智路径依赖理论
+  - "DOC-D007"  # 心智路径依赖理论
   - "DOC-D003"  # 递归认知进化模型
   - "DOC-D015"  # 熵增定律与负熵流
   - "DOC-D005"  # 构建北极星
   - "DOC-D010"  # 集体认知涌现的多维相变模型
+  - "DOC-S068"  # 创业神话的致命陷阱
 theory_chain: "cognitive_liberation"
 query_patterns:
   - "50岁开始创业晚不晚"
