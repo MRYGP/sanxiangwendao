@@ -789,8 +789,9 @@ scripts/
 ### 知识库构建方法
 
 - **`99-gongjuSOP/知识库/知识库构建SOP.md`** - 知识库构建的标准操作流程，包含五步构建流程、三种运作模式、质量标准等
-- **`Claude_Projects指令V3.1.md`** - Claude Projects 的完整 Custom Instructions（推荐版本）：在 v3.0 基础上把“模式4：新文档写作”扩展为 **理论/商业案例/AI竞品** 三场景路由，并加入 **框架搜索失败降级**（避免Project Knowledge未同步导致卡死）。详细的方法论与模板参考《99-gongjuSOP/写作/新文档写作框架指南.md》  
-  - 兼容入口：`Claude_Projects指令V3.0.md`（保留旧文件名跳转）
+- **`Claude_Projects指令V3.2.md`** - Claude Projects 的完整 Custom Instructions（推荐版本）：在 v3.0 基础上把“模式4：新文档写作”扩展为 **理论/商业案例/AI竞品** 三场景路由，并加入 **框架搜索失败降级**（避免Project Knowledge未同步导致卡死）。详细的方法论与模板参考《99-gongjuSOP/写作/新文档写作框架指南.md》  
+  - 历史版本：`archive/Claude_Projects指令V3.2.md`（v3.2扩展版，包含三场景路由）
+  - 变更记录：`CHANGELOG-SystemInstructions.md`（系统指令版本变更日志）
 
 ### RAG索引管理
 
