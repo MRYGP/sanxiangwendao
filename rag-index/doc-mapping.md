@@ -102,12 +102,13 @@
 | DOC-S066 | Notion案例深度拆解：为什么始终被模仿但从未被超越？.md | shu | methodology | `shangye-anli/01_案例库/按行业分类/科技互联网/` |
 | DOC-S067 | AI创业项目评估系统 - 商业计划书.md | shu | methodology | `shangye-anli/01_案例库/按行业分类/科技互联网/` |
 | DOC-S068 | 创业神话的致命陷阱-你为什么被私募式创业割了韭菜.md | shu | methodology | `02-shu/innovation/` |
+| DOC-S069 | 婚姻的8个真相-从热恋到长久的理性指南.md | shu | decision_framework | `02-shu/psychology/` |
 
 ---
 
 ## 统计
 
 - **道层文档**：15篇
-- **术层文档**：68篇
-- **总计**：83篇
+- **术层文档**：69篇
+- **总计**：84篇
 

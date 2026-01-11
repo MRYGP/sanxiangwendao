@@ -148,6 +148,8 @@ DOC_MAPPING = {
     "DOC-S065": "深度用户才是真正的护城河.md",
     "DOC-S066": "Notion案例深度拆解：为什么始终被模仿但从未被超越？.md",
     "DOC-S067": "shangye-anli/01_案例库/按行业分类/科技互联网/AI创业项目评估系统 - 商业计划书.md",
+    "DOC-S068": "创业神话的致命陷阱-你为什么被私募式创业割了韭菜.md",
+    "DOC-S069": "婚姻的8个真相-从热恋到长久的理性指南.md",
 }
 
 def get_doc_file_path(doc_id: str) -> Path:
