@@ -60,7 +60,7 @@
 20. `02-shu/behavior-change/跟着感觉走——可能是你听过的最坑人的建议.md`
 21. `02-shu/behavior-change/为什么有些人明知道该离开，却怎么也走不了.md`
 22. `02-shu/behavior-change/即时反馈回路理论：如何设计驱动内在动机的系统.md`
-23. `02-shu/psychology/婚姻的8个真相-从热恋到长久的理性指南.md`
+23. `02-shu/psychology/婚姻决策框架-择偶与关系管理的系统性分析.md`
 
 ---
 
