@@ -20,6 +20,8 @@ related_docs:
   - "DOC-S038"  # 规则制定者
   - "DOC-S048"  # 创业项目评估方法论
   - "DOC-S037"  # 从0到1
+  - "DOC-D017"  # 产品设计的三大反人性陷阱（外部因素vs产品设计）
+  - "DOC-S001"  # 创新三元法（边缘用户=社会资源的一种）
 theory_chain: "strategic_leverage"
 query_patterns:
   - "为什么有的公司能成功有的失败"
