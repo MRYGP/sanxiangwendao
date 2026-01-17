@@ -29,6 +29,8 @@
 | DOC-D013 | 伟大不能被计划，但可以被有计划地接住.md | dao | mindset | `01-dao/mindset/` |
 | DOC-D014 | 财富创造的范式转移.md | dao | theory | `01-dao/theory/` |
 | DOC-D015 | 熵增定律与负熵流-万物运行的底层逻辑.md | dao | theory | `01-dao/theory/` |
+| DOC-D016 | 社会资源论：商业成功的第四维度.md | dao | theory | `01-dao/theory/` |
+| DOC-D017 | 产品设计的三大反人性陷阱.md | dao | theory | `01-dao/theory/` |
 
 ## 术层文档（DOC-S001 ~ S066）
 
@@ -108,7 +110,7 @@
 
 ## 统计
 
-- **道层文档**：15篇
+- **道层文档**：17篇
 - **术层文档**：69篇
-- **总计**：84篇
+- **总计**：86篇
 
