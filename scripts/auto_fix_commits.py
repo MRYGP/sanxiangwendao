@@ -46,7 +46,8 @@ def run_cmd(cmd, shell=True, input_text=None):
 def check_branch_status():
     """检查分支状态"""
     print("检查Git状态...")
-    success, output, _ = run_cmd('git status --porcelain')
+    # 只检查已修改的文件，忽略未跟踪的文件
+    success, output, _ = run_cmd('git status --porcelain --untracked-files=no')
     if output.strip():
         print("  [WARN] 工作区有未提交的变更，请先提交或暂存")
         return False
