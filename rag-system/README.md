@@ -1,5 +1,7 @@
 # RAG知识库系统
 
+> 本仓库已建立完整的RAG检索索引系统，支持智能问答和知识检索。当前索引包含 **74篇核心文档**。
+
 ## 快速开始
 
 ### 1. 安装依赖
@@ -11,13 +13,24 @@ pip install -r requirements.txt
 ### 2. 构建索引
 
 ```bash
+# 首次构建索引
 python scripts/build_index.py
+
+# 重置并重新构建索引
+python scripts/build_index.py --reset
 ```
 
 ### 3. 测试查询
 
 ```bash
-python scripts/test_query.py "你的问题"
+# 交互式测试
+python scripts/test_query.py
+
+# 测试单个查询
+python scripts/test_query.py --query "AI用多了会变傻吗"
+
+# 批量测试
+python scripts/test_query.py --batch
 ```
 
 ## 项目结构
@@ -33,9 +46,11 @@ rag-system/
 └── rag_chain.py       # RAG链实现
 
 scripts/
-├── build_index.py     # 构建索引
-├── test_query.py      # 测试查询
-└── update_index.py   # 更新索引
+├── build_index.py      # 构建完整索引
+├── test_query.py       # 测试查询
+├── update_index.py     # 增量更新索引
+├── check_readme_links.py  # 检查README链接
+└── reorganize_root_docs.py  # 重组文档
 
 api/
 ├── app.py             # FastAPI应用
