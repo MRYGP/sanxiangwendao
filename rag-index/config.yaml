@@ -1,7 +1,7 @@
 # RAG知识库配置
 
 version: "1.0"
-last_updated: "2024-12-19"
+last_updated: "2025-01-20"
 
 # 文档分层（道 → 术）
 knowledge_layers:
