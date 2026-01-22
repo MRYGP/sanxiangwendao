@@ -721,8 +721,8 @@ scripts/
 ### 知识库构建方法
 
 - **`99-gongjuSOP/知识库/知识库构建SOP.md`** - 知识库构建的标准操作流程，包含五步构建流程、三种运作模式、质量标准等
-- **`Claude_Projects指令V3.3.md`** - Claude Projects 的完整 Custom Instructions（最新版本）：在 v3.2 基础上新增 **Claude-Cursor深度协作模式**，完善Token优化系统（平均节省30-70%）。包含协作流程五步法、触发条件、标准格式、实战示例等。详细的方法论与模板参考《99-gongjuSOP/写作/新文档写作框架指南.md》  
-  - 历史版本：`Claude_Projects指令V3.2.md`（v3.2版本，移除商业案例拆解功能）、`archive/Claude_Projects指令V3.1.md`（v3.1归档版）
+- **`Claude_Projects指令V3.5.md`** - Claude Projects 的完整 Custom Instructions（最新版本）：在 v3.4 基础上新增 **意图识别机制**、**Token三级预警机制**、**反思触发机制**、**智能模式选择优化**、**提问纪律**、**使用评估系统**。包含三大工作模式、三个拷问机制、理论文档写作7步法等。详细的方法论与模板参考《99-gongjuSOP/写作/新文档写作框架指南.md》  
+  - 历史版本：`Claude_Projects指令V3.4.md`（v3.4版本）、`archive/Claude_Projects指令V3.3.md`（v3.3归档版）
   - 变更记录：`CHANGELOG-SystemInstructions.md`（系统指令版本变更日志）
 
 ### RAG索引管理
@@ -733,9 +733,6 @@ scripts/
 
 - **`99-gongjuSOP/写作/新文档写作框架指南.md`** - 新文档写作的完整方法论，包含分类判断框架（道层3类+术层6类）、7步写作法、YAML索引创建规范、质量检查清单等（约900行详细指南）
 - **`99-gongjuSOP/写作/新文档写作快速参考.md`** - 写作新文档时的快速检查清单和模板，包含快速决策树、7步写作法模板、YAML索引模板、提交前检查清单等（快速查阅版）
-
-### 商业案例分析工具
-
 
 > **说明**：以上文档是知识库构建、索引管理和内容创作的工具和方法，不加入核心知识库索引，供协作时参考。
 
