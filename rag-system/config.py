@@ -152,6 +152,8 @@ DOC_MAPPING = {
     "DOC-S067": "shangye-anli/01_案例库/按行业分类/科技互联网/AI创业项目评估系统 - 商业计划书.md",
     "DOC-S068": "创业神话的致命陷阱-你为什么被私募式创业割了韭菜.md",
     "DOC-S069": "婚姻决策框架-择偶与关系管理的系统性分析.md",
+    "DOC-S070": "B端杠杆：撬动C端市场的务实路径.md",
+    "DOC-S071": "白标SaaS与生态链杠杆.md",
 }
 
 def get_doc_file_path(doc_id: str) -> Path:

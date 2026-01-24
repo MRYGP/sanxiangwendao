@@ -106,12 +106,13 @@
 | DOC-S068 | 创业神话的致命陷阱-你为什么被私募式创业割了韭菜.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S069 | 婚姻决策框架-择偶与关系管理的系统性分析.md | shu | decision_framework | `02-shu/psychology/` |
 | DOC-S070 | B端杠杆：撬动C端市场的务实路径.md | shu | methodology | `02-shu/innovation/` |
+| DOC-S071 | 白标SaaS与生态链杠杆.md | shu | methodology | `02-shu/innovation/` |
 
 ---
 
 ## 统计
 
 - **道层文档**：17篇（DOC-D001 ~ DOC-D017）
-- **术层文档**：69篇（DOC-S001 ~ DOC-S070，部分编号保留）
-- **总计**：86篇
+- **术层文档**：70篇（DOC-S001 ~ DOC-S071，部分编号保留）
+- **总计**：87篇
 
