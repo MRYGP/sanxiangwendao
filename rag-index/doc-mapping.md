@@ -105,12 +105,13 @@
 | DOC-S067 | AI创业项目评估系统 - 商业计划书.md | shu | methodology | `shangye-anli/01_案例库/按行业分类/科技互联网/` |
 | DOC-S068 | 创业神话的致命陷阱-你为什么被私募式创业割了韭菜.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S069 | 婚姻决策框架-择偶与关系管理的系统性分析.md | shu | decision_framework | `02-shu/psychology/` |
+| DOC-S070 | B端杠杆：撬动C端市场的务实路径.md | shu | methodology | `02-shu/innovation/` |
 
 ---
 
 ## 统计
 
 - **道层文档**：17篇（DOC-D001 ~ DOC-D017）
-- **术层文档**：68篇（DOC-S001 ~ DOC-S069，部分编号保留）
-- **总计**：85篇
+- **术层文档**：69篇（DOC-S001 ~ DOC-S070，部分编号保留）
+- **总计**：86篇
 
