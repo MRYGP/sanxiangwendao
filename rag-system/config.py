@@ -154,6 +154,7 @@ DOC_MAPPING = {
     "DOC-S069": "婚姻决策框架-择偶与关系管理的系统性分析.md",
     "DOC-S070": "B端杠杆：撬动C端市场的务实路径.md",
     "DOC-S071": "白标SaaS与生态链杠杆.md",
+    "DOC-S072": "阳谋战略：即使对手看穿也无法阻挡.md",
 }
 
 def get_doc_file_path(doc_id: str) -> Path:

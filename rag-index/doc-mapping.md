@@ -107,12 +107,13 @@
 | DOC-S069 | 婚姻决策框架-择偶与关系管理的系统性分析.md | shu | decision_framework | `02-shu/psychology/` |
 | DOC-S070 | B端杠杆：撬动C端市场的务实路径.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S071 | 白标SaaS与生态链杠杆.md | shu | methodology | `02-shu/innovation/` |
+| DOC-S072 | 阳谋战略：即使对手看穿也无法阻挡.md | shu | methodology | `02-shu/innovation/` |
 
 ---
 
 ## 统计
 
 - **道层文档**：17篇（DOC-D001 ~ DOC-D017）
-- **术层文档**：70篇（DOC-S001 ~ DOC-S071，部分编号保留）
-- **总计**：87篇
+- **术层文档**：71篇（DOC-S001 ~ DOC-S072，部分编号保留）
+- **总计**：88篇
 

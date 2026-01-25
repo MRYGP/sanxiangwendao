@@ -1,6 +1,6 @@
 # 三湘问道 - 认知体系文档库
 
-> 已建立 RAG 索引的核心文档 **87** 篇，涵盖AI认知理论、创新创业、行为改变、沟通技巧、战略思维等领域。
+> 已建立 RAG 索引的核心文档 **88** 篇，涵盖AI认知理论、创新创业、行为改变、沟通技巧、战略思维等领域。
 
 ## 🧭 专题文档集
 
@@ -21,30 +21,31 @@
 
 ---
 
-### 二、创新与创业方法论类（22篇）
+### 二、创新与创业方法论类（23篇）
 
 7. `02-shu/innovation/AI驱动的创新工程系统.md`
 8. `02-shu/innovation/创新三元法.md`
 9. `02-shu/innovation/初创企业的生存法则.md`
 10. `02-shu/innovation/B端杠杆：撬动C端市场的务实路径.md`
 11. `02-shu/innovation/白标SaaS与生态链杠杆.md`
-12. `02-shu/innovation/动态决策框架迹象验证驾驭AI创业的不确定性.md`
-12. `02-shu/innovation/动态发展观.md`
-13. `02-shu/innovation/最小可行启动点.md`
-14. `02-shu/innovation/战略性杠杆：顺势借力.md`
-15. `02-shu/innovation/芒格不会投你的AI创业公司.md`
-16. `02-shu/innovation/破坏式创新.md`
-17. `02-shu/innovation/价值链创新.md`
-18. `02-shu/innovation/供应链数字化.md`
-19. `02-shu/innovation/精益创业.md`
-20. `02-shu/innovation/从0到1.md`
-21. `02-shu/innovation/规则制定者.md`
-22. `02-shu/innovation/受益方共创模式：精益创业的补充.md`
-23. `02-shu/innovation/AI应用拆解实验室：导师能力训练指南.md`
-24. `02-shu/innovation/生态型VC构建指南：从个人投资到规则制定者.md`
-25. `02-shu/innovation/三大标杆的可复用方法论-Notion亚马逊Musk.md`
-26. `02-shu/innovation/创业项目评估方法论-从归因分析到投资决策.md`
-27. `02-shu/innovation/创业神话的致命陷阱-你为什么被私募式创业割了韭菜.md`
+12. `02-shu/innovation/阳谋战略：即使对手看穿也无法阻挡.md` ⭐ **新增**
+13. `02-shu/innovation/动态决策框架迹象验证驾驭AI创业的不确定性.md`
+14. `02-shu/innovation/动态发展观.md`
+15. `02-shu/innovation/最小可行启动点.md`
+16. `02-shu/innovation/战略性杠杆：顺势借力.md`
+17. `02-shu/innovation/芒格不会投你的AI创业公司.md`
+18. `02-shu/innovation/破坏式创新.md`
+19. `02-shu/innovation/价值链创新.md`
+20. `02-shu/innovation/供应链数字化.md`
+21. `02-shu/innovation/精益创业.md`
+22. `02-shu/innovation/从0到1.md`
+23. `02-shu/innovation/规则制定者.md`
+24. `02-shu/innovation/受益方共创模式：精益创业的补充.md`
+25. `02-shu/innovation/AI应用拆解实验室：导师能力训练指南.md`
+26. `02-shu/innovation/生态型VC构建指南：从个人投资到规则制定者.md`
+27. `02-shu/innovation/三大标杆的可复用方法论-Notion亚马逊Musk.md`
+28. `02-shu/innovation/创业项目评估方法论-从归因分析到投资决策.md`
+29. `02-shu/innovation/创业神话的致命陷阱-你为什么被私募式创业割了韭菜.md`
 
 ---
 
