@@ -10,12 +10,13 @@ keywords:
   - "四大能力"
   - "跨时空系统"
 related_docs:
-  - "DOC-S032"
-  - "DOC-S037"
-  - "DOC-S006"
-  - "DOC-S003"
-  - "DOC-D011"
+  - "DOC-S032"  # 破坏式创新
+  - "DOC-S037"  # 从0到1
+  - "DOC-S006"  # 战略性杠杆
+  - "DOC-S003"  # 初创企业的生存法则
+  - "DOC-D011"  # 财富创造的范式转移
   - "DOC-S070"  # 健康分：标准化案例
+  - "DOC-S071"  # 白标SaaS与生态链杠杆（生态链的规则制定者进化路径）
 theory_chain: "business_strategy"
 query_patterns:
   - "什么是规则制定者"

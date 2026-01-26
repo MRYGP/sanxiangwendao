@@ -11,9 +11,10 @@ keywords:
   - "MVP"
   - "引力场"
 related_docs:
-  - "DOC-S001"
-  - "DOC-S003"
-  - "DOC-D012"
+  - "DOC-S001"  # 创新三元法
+  - "DOC-S003"  # 初创企业的生存法则
+  - "DOC-D012"  # 精益创业
+  - "DOC-S071"  # 白标SaaS与生态链杠杆（冷启动的钉子汤智慧）
 query_patterns:
   - "如何从0到1启动"
   - "资源不够怎么开始"
