@@ -108,12 +108,13 @@
 | DOC-S070 | B端杠杆：撬动C端市场的务实路径.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S071 | 白标SaaS与生态链杠杆.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S072 | 阳谋战略：即使对手看穿也无法阻挡.md | shu | methodology | `02-shu/innovation/` |
+| DOC-S073 | 健康分：从隐性经验到显性标准.md | shu | case_study | `02-shu/innovation/` |
 
 ---
 
 ## 统计
 
 - **道层文档**：17篇（DOC-D001 ~ DOC-D017）
-- **术层文档**：71篇（DOC-S001 ~ DOC-S072，部分编号保留）
-- **总计**：88篇
+- **术层文档**：72篇（DOC-S001 ~ DOC-S073，部分编号保留）
+- **总计**：89篇
 
