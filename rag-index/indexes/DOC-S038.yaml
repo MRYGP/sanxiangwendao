@@ -15,6 +15,7 @@ related_docs:
   - "DOC-S006"
   - "DOC-S003"
   - "DOC-D011"
+  - "DOC-S070"  # 健康分：标准化案例
 theory_chain: "business_strategy"
 query_patterns:
   - "什么是规则制定者"

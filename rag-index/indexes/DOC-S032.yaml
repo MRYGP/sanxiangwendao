@@ -15,6 +15,7 @@ related_docs:
   - "DOC-S001"
   - "DOC-D011"
   - "DOC-S033"
+  - "DOC-S070"  # 健康分：网络效应案例
 theory_chain: "innovation_methodology"
 query_patterns:
   - "什么是破坏式创新"
