@@ -24,5 +24,4 @@ query_patterns:
 doc_weight: "core"
 layer: "shu"
 training_order: 11
----
 

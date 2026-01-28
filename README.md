@@ -46,55 +46,56 @@
 27. `02-shu/innovation/三大标杆的可复用方法论-Notion亚马逊Musk.md`
 28. `02-shu/innovation/创业项目评估方法论-从归因分析到投资决策.md`
 29. `02-shu/innovation/创业神话的致命陷阱-你为什么被私募式创业割了韭菜.md`
+30. `02-shu/innovation/健康分：从隐性经验到显性标准.md`
 
 ---
 
 ### 三、认知心理学与行为改变类（10篇）
 
-14. `01-dao/theory/心智路径依赖理论：现代人类认知困境的系统性分析框架.md`
-15. `02-shu/behavior-change/合理化行为分析框架.md`
-16. `02-shu/psychology/为什么给儿子讲道理时你很清醒，给客户报价时你就短视了.md`
-17. `02-shu/behavior-change/微习惯和正反馈行为改变框架.md`
-18. `02-shu/behavior-change/RIAIAI坚持突破框架：从不可能到奇迹的六步心智模型.md`
-19. `02-shu/behavior-change/突破潜意识给自己画的那个圈.md`
-20. `02-shu/behavior-change/跟着感觉走——可能是你听过的最坑人的建议.md`
-21. `02-shu/behavior-change/为什么有些人明知道该离开，却怎么也走不了.md`
-22. `02-shu/behavior-change/即时反馈回路理论：如何设计驱动内在动机的系统.md`
-23. `02-shu/psychology/婚姻决策框架-择偶与关系管理的系统性分析.md`
+15. `01-dao/theory/心智路径依赖理论：现代人类认知困境的系统性分析框架.md`
+16. `02-shu/behavior-change/合理化行为分析框架.md`
+17. `02-shu/psychology/为什么给儿子讲道理时你很清醒，给客户报价时你就短视了.md`
+18. `02-shu/behavior-change/微习惯和正反馈行为改变框架.md`
+19. `02-shu/behavior-change/RIAIAI坚持突破框架：从不可能到奇迹的六步心智模型.md`
+20. `02-shu/behavior-change/突破潜意识给自己画的那个圈.md`
+21. `02-shu/behavior-change/跟着感觉走——可能是你听过的最坑人的建议.md`
+22. `02-shu/behavior-change/为什么有些人明知道该离开，却怎么也走不了.md`
+23. `02-shu/behavior-change/即时反馈回路理论：如何设计驱动内在动机的系统.md`
+24. `02-shu/psychology/婚姻决策框架-择偶与关系管理的系统性分析.md`
 
 ---
 
 ### 四、沟通与社交技巧类（7篇）
 
-22. `02-shu/communication/不要正面回答别人的问题.md`
-23. `02-shu/communication/让对方HI起来.md`
-24. `02-shu/communication/透过现象看本质.md`
-25. `02-shu/communication/非暴力沟通 的深层技巧和思考.md`
-26. `02-shu/communication/当真诚成为最狡猾的策略.md`
-27. `02-shu/psychology/当美好变成理所当然.md`
-28. `02-shu/communication/即兴演讲.md`
+25. `02-shu/communication/不要正面回答别人的问题.md`
+26. `02-shu/communication/让对方HI起来.md`
+27. `02-shu/communication/透过现象看本质.md`
+28. `02-shu/communication/非暴力沟通 的深层技巧和思考.md`
+29. `02-shu/communication/当真诚成为最狡猾的策略.md`
+30. `02-shu/psychology/当美好变成理所当然.md`
+31. `02-shu/communication/即兴演讲.md`
 
 ---
 
 ### 五、战略思维与决策框架类（7篇）
 
-28. `02-shu/strategy/思考的模型：定向 → 构建 (加法) → 聚焦 (减法) → 迭代 (增长与反馈).md`
-29. `01-dao/framework/思想体系核心框架 v1.1 - 理论架构与应用索引.md`
-30. `02-shu/strategy/情境驱动的主动赋能.md`
-31. `02-shu/execution/马斯克的五步工作法.md`
-32. `02-shu/strategy/网络效应与学习效应.md`
-33. `02-shu/strategy/高频业务的战略价值.md`
-34. `02-shu/strategy/红队攻击决策模式：基于集体智慧涌现的科学决策框架.md`
+32. `02-shu/strategy/思考的模型：定向 → 构建 (加法) → 聚焦 (减法) → 迭代 (增长与反馈).md`
+33. `01-dao/framework/思想体系核心框架 v1.1 - 理论架构与应用索引.md`
+34. `02-shu/strategy/情境驱动的主动赋能.md`
+35. `02-shu/execution/马斯克的五步工作法.md`
+36. `02-shu/strategy/网络效应与学习效应.md`
+37. `02-shu/strategy/高频业务的战略价值.md`
+38. `02-shu/strategy/红队攻击决策模式：基于集体智慧涌现的科学决策框架.md`
 
 ---
 
 ### 六、人生哲学与价值观类（5篇）
 
-33. `01-dao/philosophy/人生的意义与实践.md`
-34. `01-dao/philosophy/构建北极星.md`
-35. `01-dao/philosophy/你的世界在等你按下回车键.md`
-36. `01-dao/philosophy/时间的朋友.md`
-37. `01-dao/mindset/伟大不能被计划，但可以被有计划地接住.md`
+39. `01-dao/philosophy/人生的意义与实践.md`
+40. `01-dao/philosophy/构建北极星.md`
+41. `01-dao/philosophy/你的世界在等你按下回车键.md`
+42. `01-dao/philosophy/时间的朋友.md`
+43. `01-dao/mindset/伟大不能被计划，但可以被有计划地接住.md`
 
 ---
 
