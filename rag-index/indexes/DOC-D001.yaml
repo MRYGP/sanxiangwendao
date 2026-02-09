@@ -33,6 +33,7 @@ related_docs:
   - "DOC-D003"  # 双螺旋进化（扩展机制）
   - "DOC-D004"  # 递归认知进化（个体进化）
   - "DOC-D005"  # 集体认知涌现（群体层面）
+  - "DOC-D019"  # 神经可塑性与内在稳定（神经科学机制）
 
 theory_chain: "cognitive_evolution"
 # 链条位置：DOC-D007 → DOC-D001 → DOC-D003 → DOC-D004 → DOC-D005

@@ -19,6 +19,7 @@ related_docs:
   - "DOC-S016"
   - "DOC-S011"
   - "DOC-S020"
+  - "DOC-D019"
 theory_chain: "behavior_change_methodology"
 query_patterns:
   - "什么是即时反馈回路"

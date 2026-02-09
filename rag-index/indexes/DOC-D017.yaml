@@ -22,6 +22,7 @@ related_docs:
   - "DOC-S048"  # 创业项目评估方法论
   - "DOC-S008"  # 微习惯和正反馈行为改变框架
   - "DOC-S031"  # 即时反馈回路理论
+  - "DOC-D019"  # 神经可塑性与内在稳定（多巴胺机制）
 theory_chain: "human_nature_product_design"
 query_patterns:
   - "为什么90%的产品失败"

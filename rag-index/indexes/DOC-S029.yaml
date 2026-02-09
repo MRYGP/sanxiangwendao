@@ -14,6 +14,7 @@ related_docs:
   - "DOC-S019"
   - "DOC-S025"
   - "DOC-D007"
+  - "DOC-D019"
 query_patterns:
   - "为什么感觉会骗人"
   - "如何区分感觉和正确选择"
