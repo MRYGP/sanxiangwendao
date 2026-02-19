@@ -32,6 +32,7 @@
 | DOC-D016 | 社会资源论：商业成功的第四维度.md | dao | theory | `01-dao/theory/` |
 | DOC-D017 | 产品设计的三大反人性陷阱.md | dao | theory | `01-dao/theory/` |
 | DOC-D018 | 种树型与种菜型商业模式.md | dao | theory | `01-dao/theory/` |
+| DOC-D019 | 你的粉丝不是你的——papi酱用8年证明的财富公式.md | dao | philosophy | `01-dao/philosophy/` |
 
 ## 术层文档（DOC-S001 ~ S069）
 
@@ -115,7 +116,7 @@
 
 ## 统计
 
-- **道层文档**：18篇（DOC-D001 ~ DOC-D018）
+- **道层文档**：19篇（DOC-D001 ~ DOC-D019）
 - **术层文档**：72篇（DOC-S001 ~ DOC-S073，部分编号保留）
-- **总计**：90篇
+- **总计**：91篇
 
