@@ -10,7 +10,7 @@
 >
 > 📋 详细检查清单请查看：`rag-index/索引更新检查清单.md`
 
-## 道层文档（DOC-D001 ~ D020）
+## 道层文档（DOC-D001 ~ D021）
 
 | ID | 文件名 | 层级 | 类型 | 路径 |
 |----|--------|------|------|------|
@@ -33,8 +33,10 @@
 | DOC-D017 | 产品设计的三大反人性陷阱.md | dao | theory | `01-dao/theory/` |
 | DOC-D018 | 种树型与种菜型商业模式.md | dao | theory | `01-dao/theory/` |
 | DOC-D019 | 你的粉丝不是你的——papi酱用8年证明的财富公式.md | dao | philosophy | `01-dao/philosophy/` |
+| DOC-D020 | 上帝密码已破解——所有复杂系统的解法都在这里.md | dao | philosophy | `01-dao/philosophy/` |
+| DOC-D021 | 维度跨越：为什么真正的机会从来不在现有竞争者能看到的空间里.md | dao | theory | `01-dao/theory/` |
 
-## 术层文档（DOC-S001 ~ S069）
+## 术层文档（DOC-S001 ~ S074）
 
 | ID | 文件名 | 层级 | 类型 | 路径 |
 |----|--------|------|------|------|
@@ -111,12 +113,13 @@
 | DOC-S071 | 白标SaaS与生态链杠杆.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S072 | 阳谋战略：即使对手看穿也无法阻挡.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S073 | 健康分：从隐性经验到显性标准.md | shu | case_study | `02-shu/innovation/` |
+| DOC-S074 | 问题升维：你在解一道根本不存在的题.md | shu | methodology | `02-shu/innovation/` |
 
 ---
 
 ## 统计
 
-- **道层文档**：20篇（DOC-D001 ~ DOC-D020）
-- **术层文档**：72篇（DOC-S001 ~ DOC-S073，部分编号保留）
-- **总计**：92篇
+- **道层文档**：21篇（DOC-D001 ~ DOC-D021）
+- **术层文档**：73篇（DOC-S001 ~ DOC-S074，部分编号保留）
+- **总计**：94篇
 
