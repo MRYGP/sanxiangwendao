@@ -18,6 +18,7 @@ related_docs:
   - "DOC-S033"
   - "DOC-S003"
   - "DOC-S020"
+  - "DOC-S076"
 theory_chain: "strategy_methodology"
 query_patterns:
   - "什么是高频带低频"

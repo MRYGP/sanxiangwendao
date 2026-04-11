@@ -36,7 +36,7 @@
 | DOC-D020 | 上帝密码已破解——所有复杂系统的解法都在这里.md | dao | philosophy | `01-dao/philosophy/` |
 | DOC-D021 | 维度跨越：为什么真正的机会从来不在现有竞争者能看到的空间里.md | dao | theory | `01-dao/theory/` |
 
-## 术层文档（DOC-S001 ~ S075）
+## 术层文档（DOC-S001 ~ S076）
 
 | ID | 文件名 | 层级 | 类型 | 路径 |
 |----|--------|------|------|------|
@@ -115,12 +115,13 @@
 | DOC-S073 | 健康分：从隐性经验到显性标准.md | shu | case_study | `02-shu/innovation/` |
 | DOC-S074 | 问题升维：你在解一道根本不存在的题.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S075 | 创业者的十个默认假设：在你研究怎么赢之前，先搞清楚怎么不死.md | shu | methodology | `02-shu/innovation/` |
+| DOC-S076 | 多维价值锚点-为什么单一卖点的生意必死.md | shu | methodology | `02-shu/strategy/` |
 
 ---
 
 ## 统计
 
 - **道层文档**：21篇（DOC-D001 ~ DOC-D021）
-- **术层文档**：74篇（DOC-S001 ~ DOC-S075，部分编号保留）
-- **总计**：95篇
+- **术层文档**：75篇（DOC-S001 ~ DOC-S076，部分编号保留）
+- **总计**：96篇
 
