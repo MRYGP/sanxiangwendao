@@ -114,12 +114,13 @@
 | DOC-S072 | 阳谋战略：即使对手看穿也无法阻挡.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S073 | 健康分：从隐性经验到显性标准.md | shu | case_study | `02-shu/innovation/` |
 | DOC-S074 | 问题升维：你在解一道根本不存在的题.md | shu | methodology | `02-shu/innovation/` |
+| DOC-S075 | 创业者的十个默认假设：在你研究怎么赢之前，先搞清楚怎么不死.md | shu | methodology | `02-shu/innovation/` |
 
 ---
 
 ## 统计
 
 - **道层文档**：21篇（DOC-D001 ~ DOC-D021）
-- **术层文档**：73篇（DOC-S001 ~ DOC-S074，部分编号保留）
-- **总计**：94篇
+- **术层文档**：74篇（DOC-S001 ~ DOC-S075，部分编号保留）
+- **总计**：95篇
 
