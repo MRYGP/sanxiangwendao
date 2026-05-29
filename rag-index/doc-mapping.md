@@ -35,6 +35,7 @@
 | DOC-D019 | 你的粉丝不是你的——papi酱用8年证明的财富公式.md | dao | philosophy | `01-dao/philosophy/` |
 | DOC-D020 | 上帝密码已破解——所有复杂系统的解法都在这里.md | dao | philosophy | `01-dao/philosophy/` |
 | DOC-D021 | 维度跨越：为什么真正的机会从来不在现有竞争者能看到的空间里.md | dao | theory | `01-dao/theory/` |
+| DOC-D025 | 认知流变学.md | dao | theory | `01-dao/theory/` |
 
 ## 术层文档（DOC-S001 ~ S076）
 
@@ -121,7 +122,7 @@
 
 ## 统计
 
-- **道层文档**：21篇（DOC-D001 ~ DOC-D021）
+- **道层文档**：22篇（DOC-D001 ~ DOC-D021，含延伸编号 DOC-D025）
 - **术层文档**：75篇（DOC-S001 ~ DOC-S076，部分编号保留）
-- **总计**：96篇
+- **总计**：97篇
 

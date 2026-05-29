@@ -11,9 +11,9 @@ doc_id: "DOC-D001"
 
 doc_type: "theory"
 
-title: "认知内共生理论：AI时代人类能力进化的根本路径选择"
+title: "认知内共生理论(CEO 实战应用版)"
 
-summary: "AI应作为认知教练内化训练人类认知结构，而非外置工具。核心检验标准：去除AI后能力是否比使用前更强（正BUFF效应）。这是区分'认知增强'与'认知依赖'的根本法则。"
+summary: "认知内共生理论的 CEO 实战应用层。本文档是 Reference,完整理论见 CEET 母版(02_CET_认知内共生理论/中文/认知内共生理论2.0.md)。核心检验:去除 AI 后能力是否比使用前更强(AVP/正BUFF)。"
 
 keywords:
   - "认知内共生"
@@ -53,9 +53,14 @@ query_patterns:
 
 doc_weight: "core"
 
-# === 扩展元数据（可选，用于高级检索）===
+layer: "dao"
 
-layer: "dao"  # 道层：核心认知理念
+sync_status: Reference
+master_repo: CEET
+master_doc_id: CET
+master_path: 02_CET_认知内共生理论/中文/认知内共生理论2.0.md
+
+# === 扩展元数据（可选，用于高级检索）===
 
 core_concepts:
   - name: "认知内共生"

@@ -58,7 +58,13 @@ class DocumentLoader:
         
         try:
             with open(index_file, 'r', encoding='utf-8') as f:
-                index_data = yaml.safe_load(f)
+                documents = [
+                    doc for doc in yaml.safe_load_all(f)
+                    if isinstance(doc, dict) and doc
+                ]
+            if not documents:
+                raise ValueError(f"索引文件未包含有效 YAML 文档: {index_file}")
+            index_data = documents[0]
             
             self.index_cache[doc_id] = index_data
             return index_data
