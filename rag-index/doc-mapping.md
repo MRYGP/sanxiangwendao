@@ -10,7 +10,7 @@
 >
 > 📋 详细检查清单请查看：`rag-index/索引更新检查清单.md`
 
-## 道层文档（DOC-D001 ~ D021）
+## 道层文档（DOC-D001 ~ D030）
 
 | ID | 文件名 | 层级 | 类型 | 路径 |
 |----|--------|------|------|------|
@@ -35,9 +35,17 @@
 | DOC-D019 | 你的粉丝不是你的——papi酱用8年证明的财富公式.md | dao | philosophy | `01-dao/philosophy/` |
 | DOC-D020 | 上帝密码已破解——所有复杂系统的解法都在这里.md | dao | philosophy | `01-dao/philosophy/` |
 | DOC-D021 | 维度跨越：为什么真正的机会从来不在现有竞争者能看到的空间里.md | dao | theory | `01-dao/theory/` |
+| DOC-D022 | 伪需求陷阱：当代理指标取代了真实价值.md | dao | theory | `01-dao/theory/` |
+| DOC-D023 | 不下牌桌——商业成功的唯一前提.md | dao | philosophy | `01-dao/philosophy/` |
+| DOC-D024 | 阶段错配-为什么大师的不死模式会害死普通人.md | dao | theory | `01-dao/theory/` |
 | DOC-D025 | 认知流变学.md | dao | theory | `01-dao/theory/` |
+| DOC-D026 | 生命信息论.md | dao | theory | `01-dao/theory/` |
+| DOC-D027 | 技术人的三大认知陷阱.md | dao | mindset | `01-dao/mindset/` |
+| DOC-D028 | 命运之手的年龄陷阱-为什么50岁开始也不晚.md | dao | philosophy | `01-dao/philosophy/` |
+| DOC-D029 | 神经可塑性与内在稳定-从刺激依赖到自我调节的理论框架.md | dao | theory | `01-dao/theory/` |
+| DOC-D030 | 解决方案的次生问题定律.md | dao | theory | `01-dao/theory/` |
 
-## 术层文档（DOC-S001 ~ S076）
+## 术层文档（DOC-S001 ~ S083）
 
 | ID | 文件名 | 层级 | 类型 | 路径 |
 |----|--------|------|------|------|
@@ -64,7 +72,7 @@
 | DOC-S021 | 系统性应用"思维模型工具箱".md | shu | methodology |
 | DOC-S022 | 构建"系统性复杂"，向上、向下、向外寻求生机.md | shu | methodology |
 | DOC-S023 | 最好的老师不是给你答案，而是引导你自己找到答案.md | shu | philosophy | `02-shu/execution/` |
-| DOC-S024 | AI 在金融分析中的核心价值——发现人脑无法触及的"暗规律"非线性，非逻辑，非理性（人脑偶尔却能超越AI的发现).md | shu | methodology |
+| DOC-S024 | 为什么AI能发现人脑找不到的规律.md | shu | methodology | `02-shu/execution/` |
 | DOC-S025 | 为什么给儿子讲道理时你很清醒，给客户报价时你就短视了.md | shu | technique | `02-shu/psychology/` |
 | DOC-S026 | 超越用户的预期.md | shu | philosophy | `02-shu/communication/` |
 | DOC-S027 | 当美好变成理所当然.md | shu | philosophy | `02-shu/psychology/` |
@@ -82,32 +90,9 @@
 | DOC-S039 | 受益方共创模式：精益创业的补充.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S040 | AI应用拆解实验室：导师能力训练指南.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S041 | 生态型VC构建指南：从个人投资到规则制定者.md | shu | methodology | `02-shu/innovation/` |
-| DOC-S042 | shangye-anli/README.md | shu | framework | `shangye-anli/` |
-| DOC-S043 | shangye-anli/00_系统指令/README.md | shu | framework | `shangye-anli/00_系统指令/` |
-| DOC-S044 | shangye-anli/00_系统指令/Claude-案例拆解提示词.md | shu | technique | `shangye-anli/00_系统指令/` |
-| DOC-S045 | shangye-anli/00_系统指令/Claude-模型提炼提示词.md | shu | technique | `shangye-anli/00_系统指令/` |
-| DOC-S046 | shangye-anli/00_系统指令/Claude-洞察归纳提示词.md | shu | technique | `shangye-anli/00_系统指令/` |
 | DOC-S047 | 三大标杆的可复用方法论-Notion亚马逊Musk.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S048 | 创业项目评估方法论-从归因分析到投资决策.md | shu | methodology | `02-shu/innovation/` |
-| DOC-S049 | shangye-anli/02_模型库/模型总索引.md | shu | framework | `shangye-anli/02_模型库/` |
-| DOC-S050 | shangye-anli/03_洞察库/洞察总索引.md | shu | framework | `shangye-anli/03_洞察库/` |
-| DOC-S051 | shangye-anli/05_学习记录/学习进度追踪器.md | shu | methodology | `shangye-anli/05_学习记录/` |
-| DOC-S052 | shangye-anli/01_案例库/按行业分类/消费零售/案例模板.md | shu | technique | `shangye-anli/01_案例库/按行业分类/消费零售/` |
-| DOC-S053 | AI产品分析/README.md | shu | framework | `AI产品分析/` |
-| DOC-S054 | AI产品分析/AI产品竞品分析/README.md | shu | framework | `AI产品分析/AI产品竞品分析/` |
-| DOC-S055 | AI产品分析/AI产品竞品分析/00_系统指令/README.md | shu | framework | `AI产品分析/AI产品竞品分析/00_系统指令/` |
-| DOC-S056 | AI产品分析/AI产品竞品分析/00_系统指令/Claude-竞品分析主指令.md | shu | technique | `AI产品分析/AI产品竞品分析/00_系统指令/` |
-| DOC-S057 | AI产品分析/AI产品竞品分析/00_系统指令/Claude-导师点评指令.md | shu | technique | `AI产品分析/AI产品竞品分析/00_系统指令/` |
-| DOC-S058 | AI产品分析/AI产品竞品分析/00_系统指令/Claude-评分系统指令.md | shu | technique | `AI产品分析/AI产品竞品分析/00_系统指令/` |
-| DOC-S059 | AI产品分析/AI产品竞品分析/00_系统指令/Claude-失败案例分析指令.md | shu | technique | `AI产品分析/AI产品竞品分析/00_系统指令/` |
-| DOC-S060 | AI产品分析/AI产品竞品分析/00_系统指令/Cursor-文档生成指令.md | shu | technique | `AI产品分析/AI产品竞品分析/00_系统指令/` |
-| DOC-S061 | AI产品分析/AI产品竞品分析/01_竞品库/竞品总索引.md | shu | framework | `AI产品分析/AI产品竞品分析/01_竞品库/` |
-| DOC-S062 | AI产品分析/AI产品竞品分析/03_追踪记录/追踪总览.md | shu | framework | `AI产品分析/AI产品竞品分析/03_追踪记录/` |
-| DOC-S063 | AI产品分析/AI产品竞品分析/04_改进清单/改进清单总表.md | shu | framework | `AI产品分析/AI产品竞品分析/04_改进清单/` |
-| DOC-S064 | AI产品分析/AI产品竞品分析/01_竞品库/产品模板/Step9-完整报告.md | shu | technique | `AI产品分析/AI产品竞品分析/01_竞品库/产品模板/` |
 | DOC-S065 | 深度用户才是真正的护城河.md | shu | methodology | `02-shu/product-design/` |
-| DOC-S066 | Notion案例深度拆解：为什么始终被模仿但从未被超越？.md | shu | methodology | `shangye-anli/01_案例库/按行业分类/科技互联网/` |
-| DOC-S067 | AI创业项目评估系统 - 商业计划书.md | shu | methodology | `shangye-anli/01_案例库/按行业分类/科技互联网/` |
 | DOC-S068 | 创业神话的致命陷阱-你为什么被私募式创业割了韭菜.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S069 | 婚姻决策框架-择偶与关系管理的系统性分析.md | shu | decision_framework | `02-shu/psychology/` |
 | DOC-S070 | B端杠杆：撬动C端市场的务实路径.md | shu | methodology | `02-shu/innovation/` |
@@ -117,12 +102,19 @@
 | DOC-S074 | 问题升维：你在解一道根本不存在的题.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S075 | 创业者的十个默认假设：在你研究怎么赢之前，先搞清楚怎么不死.md | shu | methodology | `02-shu/innovation/` |
 | DOC-S076 | 多维价值锚点-为什么单一卖点的生意必死.md | shu | methodology | `02-shu/strategy/` |
+| DOC-S077 | 场景组装思维：从技术找场景到场景找轮子.md | shu | methodology | `02-shu/innovation/` |
+| DOC-S078 | 非线性放大窗口研究方法论.md | shu | methodology | `02-shu/strategy/` |
+| DOC-S079 | 即时反馈回路理论：如何设计驱动内在动机的系统.md | shu | methodology | `02-shu/behavior-change/` |
+| DOC-S080 | AI创业大赛的思考.md | shu | case_study | `02-shu/innovation/` |
+| DOC-S081 | 责任锚点透镜-判断AI公司能不能活.md | shu | methodology | `02-shu/innovation/` |
+| DOC-S082 | 婚姻的8个真相-从热恋到长久的理性指南-公众号版.md | shu | philosophy | `02-shu/psychology/` |
+| DOC-S083 | 红队攻击决策模式：基于集体智慧涌现的科学决策框架.md | shu | framework | `02-shu/strategy/` |
 
 ---
 
 ## 统计
 
-- **道层文档**：22篇（DOC-D001 ~ DOC-D021，含延伸编号 DOC-D025）
-- **术层文档**：75篇（DOC-S001 ~ DOC-S076，部分编号保留）
-- **总计**：97篇
+- **道层文档**：30篇（DOC-D001 ~ DOC-D030）
+- **术层文档**：60篇（DOC-S001 ~ DOC-S083，部分编号保留；已移除未入库子项目编号）
+- **总计**：90篇
 

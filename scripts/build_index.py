@@ -35,6 +35,7 @@ from rag_system.config import (
     EMBEDDING_MODEL, EMBEDDING_DEVICE,
     DOC_MAPPING, VECTOR_DB_TYPE
 )
+from rag_system.registry_check import assert_registry_valid
 from rag_system.embedding import EmbeddingModel
 from rag_system.document_loader import DocumentLoader
 from rag_system.vector_store import VectorStore
@@ -57,6 +58,10 @@ def build_index(reset: bool = False):
     logger.info("开始构建RAG知识库向量索引")
     logger.info(f"向量库后端: {VECTOR_DB_TYPE}")
     logger.info("=" * 60)
+
+    logger.info("校验 YAML ↔ DOC_MAPPING ↔ 主文档一致性...")
+    assert_registry_valid()
+    logger.info("✅ 注册表校验通过")
     
     # 1. 初始化组件
     logger.info("初始化组件...")
