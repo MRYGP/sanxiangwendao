@@ -3,6 +3,7 @@ RAG知识库系统配置文件
 """
 
 import os
+import sys
 from pathlib import Path
 
 # 尝试加载环境变量（可选依赖）
@@ -27,7 +28,8 @@ EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "BAAI/bge-m3")
 EMBEDDING_DEVICE = os.getenv("EMBEDDING_DEVICE", "cpu")  # 或 "cuda"
 
 # 向量数据库配置
-VECTOR_DB_TYPE = os.getenv("VECTOR_DB_TYPE", "chroma")  # chroma | qdrant | milvus
+# Windows 上 ChromaDB 原生 add() 会 segfault，默认改用 NumPy 持久化后端。
+VECTOR_DB_TYPE = os.getenv("VECTOR_DB_TYPE", "numpy" if sys.platform == "win32" else "chroma")  # numpy | chroma
 COLLECTION_NAME = os.getenv("COLLECTION_NAME", "wendao_knowledge_base")
 
 # 检索配置

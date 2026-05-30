@@ -33,7 +33,7 @@ if rag_system_init.exists():
 from rag_system.config import (
     INDEX_DIR, VECTOR_DB_DIR, COLLECTION_NAME,
     EMBEDDING_MODEL, EMBEDDING_DEVICE,
-    DOC_MAPPING
+    DOC_MAPPING, VECTOR_DB_TYPE
 )
 from rag_system.embedding import EmbeddingModel
 from rag_system.document_loader import DocumentLoader
@@ -55,6 +55,7 @@ def build_index(reset: bool = False):
     """
     logger.info("=" * 60)
     logger.info("开始构建RAG知识库向量索引")
+    logger.info(f"向量库后端: {VECTOR_DB_TYPE}")
     logger.info("=" * 60)
     
     # 1. 初始化组件
@@ -72,72 +73,44 @@ def build_index(reset: bool = False):
     doc_ids = list(DOC_MAPPING.keys())
     logger.info(f"共 {len(doc_ids)} 篇文档需要处理")
     
-    # 4. 批量处理文档
-    all_chunks = []
-    all_embeddings = []
-    all_ids = []
-    
+    # 4. 逐篇处理并立即写入向量库，避免全量驻留内存
+    success_count = 0
+    total_chunks = 0
+
     logger.info("开始处理文档...")
     for doc_id in tqdm(doc_ids, desc="处理文档"):
         try:
-            # 加载文档
             doc = document_loader.load_document(doc_id)
             logger.debug(f"加载文档: {doc_id} - {doc['index'].get('title', '')}")
-            
-            # 分块
+
             chunks = document_loader.chunk_document(doc)
             logger.debug(f"文档 {doc_id} 分块完成，共 {len(chunks)} 个块")
-            
-            # 向量化
+
             chunk_texts = [chunk['content'] for chunk in chunks]
             embeddings = embedding_model.encode_batch(
                 chunk_texts,
                 batch_size=32,
                 show_progress_bar=False
             )
-            
-            # 生成ID
+
             chunk_ids = [
                 f"{doc_id}_{chunk['chunk_type']}_{chunk.get('chunk_index', chunk.get('pattern_index', chunk.get('example_index', 0)))}"
                 for chunk in chunks
             ]
-            
-            # 收集数据
-            all_chunks.extend(chunks)
-            all_embeddings.extend(embeddings)
-            all_ids.extend(chunk_ids)
-            
+
+            vector_store.add_documents(chunks, embeddings, chunk_ids)
+            success_count += 1
+            total_chunks += len(chunks)
             logger.info(f"✅ {doc_id} 处理完成: {len(chunks)} 个块")
-            
+
         except Exception as e:
             logger.error(f"❌ 处理文档 {doc_id} 失败: {e}")
             continue
-    
-    # 5. 批量添加到向量数据库
-    if all_chunks:
-        logger.info(f"\n开始添加到向量数据库，共 {len(all_chunks)} 个块...")
-        
-        # 分批添加（避免内存问题）
-        batch_size = 100
-        for i in tqdm(range(0, len(all_chunks), batch_size), desc="添加到向量数据库"):
-            batch_chunks = all_chunks[i:i+batch_size]
-            batch_embeddings = all_embeddings[i:i+batch_size]
-            batch_ids = all_ids[i:i+batch_size]
-            
-            try:
-                vector_store.add_documents(
-                    batch_chunks,
-                    batch_embeddings,
-                    batch_ids
-                )
-            except Exception as e:
-                logger.error(f"添加批次 {i//batch_size + 1} 失败: {e}")
-        
-        logger.info("✅ 所有文档块已添加到向量数据库")
+
+    if total_chunks:
+        logger.info(f"\n已写入向量库: {success_count} 篇文档, {total_chunks} 个块")
     else:
         logger.warning("没有文档块需要添加")
-    
-    # 6. 显示统计信息
     info = vector_store.get_collection_info()
     logger.info("\n" + "=" * 60)
     logger.info("索引构建完成！")
