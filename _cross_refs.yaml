@@ -1,11 +1,11 @@
 # ============================================================
 # sanxiangwendao 仓库 跨库引用元索引
-# 放置位置:E:\sanxiangwendao\_cross_refs.yaml
-# 配套治理文件:E:\sanxiangwendao\双库治理协议.md
+# 放置位置:D:\sanxiangwendao\_cross_refs.yaml
+# 配套治理文件:D:\sanxiangwendao\双库治理协议.md
 # ============================================================
 
 repo: sanxiangwendao
-repo_path: E:\sanxiangwendao
+repo_path: D:\sanxiangwendao
 last_updated: 2026-05-28
 maintainer: 松阳
 
