@@ -30,6 +30,9 @@ query_patterns:
   - "塔勒布杠铃策略如何用于原始积累"
 doc_weight: "important"
 layer: "dao"
+maturity: "TML-2"
+status: "draft_validation"
+usage_boundary: "核心命题可用于阶段诊断；草稿版三阶段模型、指标和投资案例数据需在正式发布前继续核验。"
 training_order: 24
 training_questions:
   - "你当前处在求胜阶段还是求不败阶段？依据是什么？"

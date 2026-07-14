@@ -39,7 +39,7 @@
 | DOC-D023 | 不下牌桌——商业成功的唯一前提.md | dao | philosophy | `01-dao/philosophy/` |
 | DOC-D024 | 阶段错配-为什么大师的不死模式会害死普通人.md | dao | theory | `01-dao/theory/` |
 | DOC-D025 | 认知流变学.md | dao | theory | `01-dao/theory/` |
-| DOC-D026 | 生命信息论.md | dao | theory | `01-dao/theory/` |
+| DOC-D026 | 生命信息论.md | dao | hypothesis | `01-dao/theory/` |
 | DOC-D027 | 技术人的三大认知陷阱.md | dao | mindset | `01-dao/mindset/` |
 | DOC-D028 | 命运之手的年龄陷阱-为什么50岁开始也不晚.md | dao | philosophy | `01-dao/philosophy/` |
 | DOC-D029 | 神经可塑性与内在稳定-从刺激依赖到自我调节的理论框架.md | dao | theory | `01-dao/theory/` |
@@ -117,4 +117,3 @@
 - **道层文档**：30篇（DOC-D001 ~ DOC-D030）
 - **术层文档**：60篇（DOC-S001 ~ DOC-S083，部分编号保留；已移除未入库子项目编号）
 - **总计**：90篇
-

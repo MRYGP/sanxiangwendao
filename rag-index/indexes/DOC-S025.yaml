@@ -14,7 +14,7 @@ related_docs:
   - "DOC-S008"
   - "DOC-D007"
   - "DOC-S018"
-  - "DOC-D019"
+  - "DOC-D029"
 query_patterns:
   - "为什么道理都懂但做不到"
   - "如何克服认知偏差"
@@ -25,4 +25,3 @@ doc_weight: "core"
 layer: "shu"
 training_order: 17
 ---
-

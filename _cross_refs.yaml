@@ -6,7 +6,7 @@
 
 repo: sanxiangwendao
 repo_path: D:\sanxiangwendao
-last_updated: 2026-05-28
+last_updated: 2026-07-13
 maintainer: 松阳
 
 # ------------------------------------------------------------
@@ -66,3 +66,4 @@ duplication_alerts: []  # CET 重复已于 2026-05-28 拆除
 versions:
   - v1.0: 2026-05-28, 初版建立
   - v1.1: 2026-05-28, CET 拆除完成 + 认知流变学 CEET 分身登记
+  - v1.2: 2026-07-13, 理论体系总装时复核本地 doc_id 与成熟度边界

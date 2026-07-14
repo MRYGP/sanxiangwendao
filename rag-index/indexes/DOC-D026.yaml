@@ -1,6 +1,6 @@
 ---
 doc_id: "DOC-D026"
-doc_type: "theory"
+doc_type: "hypothesis"
 title: "生命信息论"
 summary: |
   以多轮深度对话建构的"生命信息论"探索框架：区分 L1 体验、L2 机制与 L3 解释层的认知陷阱；
@@ -32,6 +32,9 @@ query_patterns:
   - "心脏移植为什么会有供体记忆"
   - "拉马努金和生命信息论有什么关系"
   - "个人知识和公共知识的边界"
-doc_weight: "core"
+doc_weight: "marginal"
 layer: "dao"
+maturity: "TML-0"
+evidence_status: "exploratory_dialogue_unverified"
+usage_boundary: "仅作为思想实验和待研究材料；不得作为科学事实、成熟理论或决策依据引用。"
 ---

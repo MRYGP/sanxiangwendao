@@ -14,7 +14,7 @@ related_docs:
   - "DOC-S008"
   - "DOC-S025"
   - "DOC-D007"
-  - "DOC-D019"
+  - "DOC-D029"
 query_patterns:
   - "如何坚持到成功"
   - "RIAIAI框架是什么"
@@ -24,4 +24,3 @@ query_patterns:
 doc_weight: "important"
 layer: "shu"
 ---
-

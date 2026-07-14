@@ -189,6 +189,6 @@ python scripts/build_index.py --reset
 
 ## 📚 相关文档
 
-- [RAG知识库实施方案.md](../RAG知识库实施方案.md)
-- [SETUP.md](../SETUP.md)
+- [RAG索引构建说明.md](../RAG索引构建说明.md)
+- [RAG索引重建操作指南.md](../99-gongjuSOP/知识库/RAG索引重建操作指南.md)
 - [rag-system/README.md](../rag-system/README.md)
