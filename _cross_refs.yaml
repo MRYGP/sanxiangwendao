@@ -6,8 +6,10 @@
 
 repo: sanxiangwendao
 repo_path: D:\sanxiangwendao
-last_updated: 2026-07-13
+last_updated: 2026-08-16
 maintainer: 松阳
+authority: "松阳（杨；同一授权主体）"
+governance_protocol: "双库理论治理协议 v1.1（2026-08-16）；单份存放于 D:\\sanxiangwendao"
 
 # ------------------------------------------------------------
 # 本仓库作为 Master(母版)的文档
@@ -23,6 +25,10 @@ masters_in_this_repo:
         path: 08_发布历史与工作文件/特殊稿件/认知流变学的AI推论_AVP机制层判据.md
         ref_type: 衍生扩展(理论推论)
         relationship: "用流变学动力学给 AVP 补机制层判据,继续在 CEET 内迭代,不需同步 sanxiangwendao"
+        external_repo: true
+        sync_frozen: true
+        sync_frozen_on: 2026-08-16
+        freeze_reason: "CEET 不在当前协作与治理范围内；保留历史关系仅供追溯"
 
   - id: DOC-D003
     name: 双螺旋进化模型
@@ -45,10 +51,13 @@ references_to_other_repos:
     master_repo: CEET
     master_doc_id: CET
     master_path: 02_CET_认知内共生理论/中文/认知内共生理论2.0.md
+    external_master: true
     sync_status: Reference
     last_sync_check: 2026-05-28
+    sync_frozen: true
+    sync_frozen_on: 2026-08-16
     unique_content: "在三湘票据 CEO 实战中应用 CET 的具体方法、案例与决策框架"
-    notes: "v2.0 按治理协议降级为 Reference,2026-05-28"
+    notes: "v2.0 于 2026-05-28 降级为 Reference；CEET 自 2026-08-16 起为外部研究参考，不纳入当前治理且不再同步"
 
 # ------------------------------------------------------------
 # 镜像(过渡态,长期必须清零)
@@ -58,7 +67,21 @@ mirrors: []
 # ------------------------------------------------------------
 # 雷区警告(已识别但未处理的重复)
 # ------------------------------------------------------------
-duplication_alerts: []  # CET 重复已于 2026-05-28 拆除
+duplication_alerts:
+  - alert_id: DUP-2026-08-15-SK
+    discovered: 2026-08-15
+    repo_a: sanxiangwendao (master)
+    repo_b: D:\sk (main) — 仅 theory/ 目录涉及
+    nature: "编号分叉。sk/theory 使用与本库不兼容的独立 DOC 编号体系。"
+    scope_note: "sk/theory 为 31 DOC 正文 + 1 索引卡 + 1 外部提炼，非纯镜像目录"
+    fact_table: "D:\\sk\\theory\\_README-本目录状态.md（唯一映射事实表，本文件不重复登记明细）"
+    verified: "P002 == 本库 DOC-D020，sk 版缺 5 段且引用已废编号 DOC-D019（逐字比对）"
+    unresolved: []
+    relationship_finding: "SK DOC-S074 是本库 DOC-S074 的精华改写/派生摘要；SK DOC-D022 是独立 RRF 综合框架候选，不应并入 DOC-S074（2026-08-16 正文比对）"
+    confirmed_principle: "重合理论以 sanxiangwendao 为母版候选；SK 本地冲突编号停止新增引用；6 篇 SK-native 逐篇审查，不整体迁移。"
+    pending_decisions: "逐篇差异审计后的最终母版关系、SK-native 去留及正式编号"
+    status: 治理中
+    owner: "松阳（杨；同一授权主体）"
 
 # ------------------------------------------------------------
 # 版本记录
@@ -67,3 +90,6 @@ versions:
   - v1.0: 2026-05-28, 初版建立
   - v1.1: 2026-05-28, CET 拆除完成 + 认知流变学 CEET 分身登记
   - v1.2: 2026-07-13, 理论体系总装时复核本地 doc_id 与成熟度边界
+  - v1.3: 2026-08-16, 登记 SK theory 编号分叉并完成 D022/S074 关系核验
+  - v1.4: 2026-08-16, 确认授权主体与治理原则并启用双库理论治理协议 v1.1
+  - v1.5: 2026-08-16, 收回 CEET 纳管边界并冻结 D001/D025 外部同步关系

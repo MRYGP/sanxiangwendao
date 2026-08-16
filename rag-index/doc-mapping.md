@@ -1,5 +1,7 @@
 # 文档ID映射表
 
+> ⚠️ **跨库编号警告**：本表只记录 `D:\sanxiangwendao` 的正式 ID。`D:\SK\theory` 存在历史编号分叉，禁止用 SK 本地编号反推本库文档。涉及 SK 引用时，先查 `D:\SK\theory\_README-本目录状态.md`；本表不重复维护 SK 映射明细。
+
 > ⚠️ **索引更新提醒**：每次新增文档后，必须同步更新以下文件：
 > 1. ✅ 本文件（doc-mapping.md）- 添加文档ID映射
 > 2. ✅ `rag-system/config.py` - 在 DOC_MAPPING 字典中添加条目
